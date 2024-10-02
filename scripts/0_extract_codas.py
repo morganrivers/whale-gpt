@@ -200,7 +200,12 @@ def get_coda_tree(
             )
     return tree
 
-
+"""
+The code below:
+1. Breaks down long sequences of whale clicks (represented by ICIs) into smaller codas.
+2. Uses Manhattan distance to find the optimal way to divide each sequence into codas.
+3. Creates a new dataset that encodes these click sequences into a structured format that includes coda information, durations, and inter-click intervals (ICIs).
+"""
 if __name__ == "__main__":
     dialogues = pd.read_csv("data/sperm-whale-dialogues.csv")
 
