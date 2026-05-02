@@ -6,7 +6,7 @@ Sequence-level 5-fold CV (no within-sequence leakage). Context length **K = 4** 
 
 | model | accuracy | top-3 accuracy | perplexity |
 |-------|---------:|---------------:|-----------:|
-| majority | 0.398 ± 0.060 | — | — |
+| majority | 0.398 ± 0.060 | 0.689 ± 0.019 | — |
 | Markov-1 | 0.506 ± 0.073 | 0.774 ± 0.020 | 4.89 ± 0.71 |
 | Random Forest | 0.554 ± 0.056 | 0.827 ± 0.022 | 4.24 ± 0.58 |
 | MLP (128,64) | 0.536 ± 0.063 | 0.803 ± 0.048 | 4.41 ± 0.88 |
@@ -15,7 +15,7 @@ Sequence-level 5-fold CV (no within-sequence leakage). Context length **K = 4** 
 
 | model | accuracy | top-3 accuracy | perplexity |
 |-------|---------:|---------------:|-----------:|
-| majority | 0.416 ± 0.044 | — | — |
+| majority | 0.416 ± 0.044 | 0.863 ± 0.025 | — |
 | Markov-1 | 0.647 ± 0.045 | 0.895 ± 0.022 | 2.85 ± 0.33 |
 | Random Forest | 0.675 ± 0.042 | 0.922 ± 0.021 | 2.53 ± 0.32 |
 | MLP (128,64) | 0.681 ± 0.046 | 0.913 ± 0.027 | 2.53 ± 0.30 |
@@ -24,7 +24,7 @@ Sequence-level 5-fold CV (no within-sequence leakage). Context length **K = 4** 
 
 | model | accuracy | top-3 accuracy | perplexity |
 |-------|---------:|---------------:|-----------:|
-| majority | 0.076 ± 0.015 | — | — |
+| majority | 0.076 ± 0.015 | 0.228 ± 0.051 | — |
 | Markov-1 | 0.239 ± 0.034 | 0.445 ± 0.067 | 45.51 ± 12.73 |
 | Random Forest | 0.253 ± 0.035 | 0.505 ± 0.082 | 48.85 ± 17.11 |
 | MLP (128,64) | 0.260 ± 0.035 | 0.484 ± 0.062 | 36.85 ± 12.72 |

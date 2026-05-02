@@ -97,9 +97,10 @@ def evaluate_one_fold(
     # ---------- 1. majority baseline ---------------------------------------
     train_counts = Counter(y_train.tolist())
     majority = train_counts.most_common(1)[0][0]
+    top3_classes = {c for c, _ in train_counts.most_common(3)}
     out["majority"] = dict(
         accuracy=float(np.mean(y_test == majority)),
-        top3_accuracy=float("nan"),
+        top3_accuracy=float(np.mean([t in top3_classes for t in y_test])),
         perplexity=float("nan"),
     )
 

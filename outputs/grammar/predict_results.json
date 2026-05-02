@@ -4,7 +4,7 @@
       {
         "majority": {
           "accuracy": 0.4101654846335697,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.7198581560283688,
           "perplexity": NaN
         },
         "markov1": {
@@ -33,7 +33,7 @@
       {
         "majority": {
           "accuracy": 0.4251748251748252,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.6993006993006993,
           "perplexity": NaN
         },
         "markov1": {
@@ -62,7 +62,7 @@
       {
         "majority": {
           "accuracy": 0.29701230228471004,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.6678383128295254,
           "perplexity": NaN
         },
         "markov1": {
@@ -73,7 +73,7 @@
         "random_forest": {
           "accuracy": 0.4903339191564148,
           "top3_accuracy": 0.820738137082601,
-          "perplexity": 4.705179913635562
+          "perplexity": 4.705179913635561
         },
         "mlp": {
           "accuracy": 0.4428822495606327,
@@ -91,7 +91,7 @@
       {
         "majority": {
           "accuracy": 0.480719794344473,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.6838046272493573,
           "perplexity": NaN
         },
         "markov1": {
@@ -120,7 +120,7 @@
       {
         "majority": {
           "accuracy": 0.37905405405405407,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.675,
           "perplexity": NaN
         },
         "markov1": {
@@ -150,7 +150,9 @@
     "summary": {
       "majority": {
         "accuracy_mean": 0.3984252920983264,
-        "accuracy_std": 0.060474116953984254
+        "accuracy_std": 0.060474116953984254,
+        "top3_accuracy_mean": 0.6891603590815901,
+        "top3_accuracy_std": 0.018595755033332117
       },
       "markov1": {
         "accuracy_mean": 0.505531396368361,
@@ -166,7 +168,7 @@
         "top3_accuracy_mean": 0.8270534895060502,
         "top3_accuracy_std": 0.02230170188639263,
         "perplexity_mean": 4.2375304932775135,
-        "perplexity_std": 0.5772905247730085
+        "perplexity_std": 0.5772905247730084
       },
       "mlp": {
         "accuracy_mean": 0.5360515482008221,
@@ -183,7 +185,7 @@
       {
         "majority": {
           "accuracy": 0.3817966903073286,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.8546099290780141,
           "perplexity": NaN
         },
         "markov1": {
@@ -205,14 +207,14 @@
           "n_train": 3153,
           "n_test": 846,
           "n_classes": 5,
-          "seconds": 0.8,
+          "seconds": 0.7,
           "fold": 0
         }
       },
       {
         "majority": {
           "accuracy": 0.43216783216783217,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.8671328671328671,
           "perplexity": NaN
         },
         "markov1": {
@@ -234,14 +236,14 @@
           "n_train": 3284,
           "n_test": 715,
           "n_classes": 5,
-          "seconds": 0.9,
+          "seconds": 0.8,
           "fold": 1
         }
       },
       {
         "majority": {
           "accuracy": 0.4956063268892794,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.8717047451669596,
           "perplexity": NaN
         },
         "markov1": {
@@ -270,7 +272,7 @@
       {
         "majority": {
           "accuracy": 0.39588688946015427,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.8997429305912596,
           "perplexity": NaN
         },
         "markov1": {
@@ -299,7 +301,7 @@
       {
         "majority": {
           "accuracy": 0.37567567567567567,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.8236486486486486,
           "perplexity": NaN
         },
         "markov1": {
@@ -329,7 +331,9 @@
     "summary": {
       "majority": {
         "accuracy_mean": 0.416226682900054,
-        "accuracy_std": 0.04426909507513849
+        "accuracy_std": 0.04426909507513849,
+        "top3_accuracy_mean": 0.8633678241235498,
+        "top3_accuracy_std": 0.024743248767766512
       },
       "markov1": {
         "accuracy_mean": 0.6473402975345857,
@@ -362,7 +366,7 @@
       {
         "majority": {
           "accuracy": 0.08865248226950355,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.23522458628841608,
           "perplexity": NaN
         },
         "markov1": {
@@ -384,14 +388,14 @@
           "n_train": 3153,
           "n_test": 846,
           "n_classes": 187,
-          "seconds": 2.5,
+          "seconds": 2.3,
           "fold": 0
         }
       },
       {
         "majority": {
           "accuracy": 0.08671328671328671,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.26433566433566436,
           "perplexity": NaN
         },
         "markov1": {
@@ -413,14 +417,14 @@
           "n_train": 3284,
           "n_test": 715,
           "n_classes": 187,
-          "seconds": 3.1,
+          "seconds": 2.9,
           "fold": 1
         }
       },
       {
         "majority": {
           "accuracy": 0.06678383128295255,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.19332161687170474,
           "perplexity": NaN
         },
         "markov1": {
@@ -442,14 +446,14 @@
           "n_train": 3430,
           "n_test": 569,
           "n_classes": 187,
-          "seconds": 2.5,
+          "seconds": 2.6,
           "fold": 2
         }
       },
       {
         "majority": {
           "accuracy": 0.08740359897172237,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.29562982005141386,
           "perplexity": NaN
         },
         "markov1": {
@@ -471,14 +475,14 @@
           "n_train": 3610,
           "n_test": 389,
           "n_classes": 187,
-          "seconds": 2.4,
+          "seconds": 2.5,
           "fold": 3
         }
       },
       {
         "majority": {
           "accuracy": 0.05202702702702703,
-          "top3_accuracy": NaN,
+          "top3_accuracy": 0.1527027027027027,
           "perplexity": NaN
         },
         "markov1": {
@@ -500,7 +504,7 @@
           "n_train": 2519,
           "n_test": 1480,
           "n_classes": 187,
-          "seconds": 2.3,
+          "seconds": 2.2,
           "fold": 4
         }
       }
@@ -508,7 +512,9 @@
     "summary": {
       "majority": {
         "accuracy_mean": 0.07631604525289845,
-        "accuracy_std": 0.014587965349997463
+        "accuracy_std": 0.014587965349997463,
+        "top3_accuracy_mean": 0.2282428780499804,
+        "top3_accuracy_std": 0.05063249154026307
       },
       "markov1": {
         "accuracy_mean": 0.23858117133160633,
