@@ -1,0 +1,74 @@
+=== Strong recurring phrases (rhythm.tempo, n>=3) ===
+  -- n3 --
+    5.4 5.4 5.4                     count= 661  ratio=  9.21  P(last|prefix)=0.86
+    6.0 6.0 6.0                     count= 151  ratio= 49.81  P(last|prefix)=0.78
+    5.3 5.3 5.3                     count=  42  ratio= 41.85  P(last|prefix)=0.53
+    5.2 5.2 5.2                     count=  52  ratio= 18.60  P(last|prefix)=0.41
+    5.4 4.2 5.4                     count=  74  ratio=  7.30  P(last|prefix)=0.72
+    3.0 3.0 3.0                     count=  42  ratio= 31.90  P(last|prefix)=0.50
+    3.0 1.0 1.0                     count=  52  ratio=  8.77  P(last|prefix)=0.58
+    6.1 6.1 6.1                     count=  19  ratio=378.63  P(last|prefix)=0.59
+    1.0 1.0 1.0                     count=  67  ratio=  5.33  P(last|prefix)=0.33
+    4.2 5.4 4.2                     count=  30  ratio= 20.98  P(last|prefix)=0.36
+  -- n4 --
+    5.4 5.4 5.4 5.4                 count= 548  ratio= 31.00  P(last|prefix)=0.90
+    6.0 6.0 6.0 6.0                 count= 112  ratio=430.69  P(last|prefix)=0.83
+    5.3 5.3 5.3 5.3                 count=  28  ratio=470.24  P(last|prefix)=0.72
+    5.2 5.2 5.2 5.2                 count=  29  ratio=124.27  P(last|prefix)=0.58
+    6.1 6.1 6.1 6.1                 count=  14  ratio=12761.71  P(last|prefix)=1.00
+    8.0 3.0 1.0 1.0                 count=  27  ratio=118.91  P(last|prefix)=0.93
+    3.0 3.0 3.0 3.0                 count=  21  ratio=245.55  P(last|prefix)=0.50
+    5.4 5.4 5.4 4.2                 count=  41  ratio= 16.43  P(last|prefix)=0.07
+    5.4 4.2 5.4 4.2                 count=  26  ratio= 73.81  P(last|prefix)=0.36
+    5.4 4.2 5.4 5.4                 count=  39  ratio= 15.63  P(last|prefix)=0.53
+  -- n5 --
+    5.4 5.4 5.4 5.4 5.4             count= 453  ratio=104.05  P(last|prefix)=0.90
+    6.0 6.0 6.0 6.0 6.0             count=  80  ratio=3586.36  P(last|prefix)=0.82
+    5.3 5.3 5.3 5.3 5.3             count=  17  ratio=4811.44  P(last|prefix)=0.68
+    5.4 5.4 5.4 5.4 4.2             count=  34  ratio= 55.32  P(last|prefix)=0.07
+    6.1 6.1 6.1 6.1 6.1             count=  10  ratio=416969.26  P(last|prefix)=1.00
+    5.4 5.4 5.4 4.2 5.4             count=  31  ratio= 50.44  P(last|prefix)=0.76
+    5.4 4.2 5.4 5.4 5.4             count=  30  ratio= 48.81  P(last|prefix)=0.79
+    5.2 5.2 5.2 5.2 5.2             count=  17  ratio=872.52  P(last|prefix)=0.61
+    5.4 4.2 5.4 4.2 5.4             count=  20  ratio=230.51  P(last|prefix)=0.83
+    4.2 5.4 5.4 5.4 5.4             count=  27  ratio= 43.93  P(last|prefix)=0.93
+
+=== Duality of patterning ===
+  rhythm bigrams w/ count>=5: 69; avg H(tempo|rhythm) = 1.58 bits
+  tempo bigrams  w/ count>=5: 25; avg H(rhythm|tempo) = 2.932 bits
+  rhythm bigrams realized with the most distinct tempo profiles:
+    R=    (3, 5)  n= 150  distinct_tempo_pairs= 15  H=3.31  top=[((2, 2), 30), ((0, 2), 25), ((3, 3), 24)]
+    R=    (5, 3)  n= 146  distinct_tempo_pairs= 14  H=3.28  top=[((2, 2), 27), ((2, 0), 26), ((3, 3), 25)]
+    R=    (2, 5)  n=  41  distinct_tempo_pairs= 11  H=3.25  top=[((1, 2), 10), ((3, 4), 5), ((1, 4), 4)]
+    R=    (3, 2)  n=  23  distinct_tempo_pairs= 11  H=3.17  top=[((2, 1), 5), ((0, 1), 4), ((0, 2), 3)]
+    R=    (5, 2)  n=  55  distinct_tempo_pairs= 12  H=3.12  top=[((2, 2), 13), ((4, 3), 12), ((2, 1), 7)]
+
+=== FSA view: most deterministic (rhythm, tempo) transitions ===
+  state     (5, 4)  n=1111  H_succ=1.68  top: (5, 4):0.74, (4, 2):0.10, (5, 3):0.04
+  state     (0, 2)  n=  31  H_succ=1.47  top: (1, 0):0.74, (0, 0):0.07, (3, 1):0.07
+  state     (1, 2)  n=  29  H_succ=1.76  top: (1, 0):0.59, (4, 2):0.21, (5, 4):0.10
+  state     (6, 0)  n= 374  H_succ=2.45  top: (6, 0):0.57, (0, 0):0.11, (3, 0):0.07
+  state     (7, 2)  n=  20  H_succ=1.64  top: (7, 2):0.55, (5, 4):0.30, (3, 2):0.05
+  state     (1, 1)  n=  64  H_succ=2.26  top: (1, 0):0.52, (0, 0):0.25, (5, 2):0.05
+  state     (4, 2)  n= 165  H_succ=2.69  top: (5, 4):0.52, (1, 0):0.10, (4, 2):0.09
+  state     (6, 1)  n=  98  H_succ=2.64  top: (6, 1):0.39, (3, 0):0.18, (6, 0):0.14
+  state     (3, 1)  n=  19  H_succ=2.60  top: (1, 0):0.37, (5, 2):0.26, (3, 0):0.05
+  state     (2, 3)  n=  36  H_succ=2.70  top: (1, 0):0.36, (5, 4):0.14, (3, 1):0.14
+  state     (5, 2)  n= 388  H_succ=3.67  top: (5, 2):0.34, (5, 3):0.08, (5, 4):0.08
+  state     (1, 0)  n= 632  H_succ=3.76  top: (1, 0):0.34, (0, 0):0.10, (5, 4):0.08
+  state     (0, 0)  n= 194  H_succ=2.83  top: (1, 0):0.34, (6, 0):0.18, (0, 0):0.17
+  state     (8, 0)  n= 180  H_succ=2.46  top: (8, 0):0.34, (3, 0):0.24, (1, 0):0.22
+  state     (3, 4)  n=  71  H_succ=2.95  top: (3, 4):0.34, (5, 4):0.25, (4, 2):0.10
+
+=== Long-range rhythm MI: real vs simulated 1st-order Markov ===
+  k    real   markov1   excess
+    1  0.536  0.580    -0.044
+    2  0.498  0.213    +0.286
+    3  0.417  0.107    +0.311
+    5  0.329  0.054    +0.275
+    8  0.291  0.047    +0.243
+   12  0.210  0.052    +0.159
+   16  0.182  0.058    +0.123
+   20  0.136  0.065    +0.071
+   25  0.130  0.072    +0.058
+   30  0.104  0.077    +0.027

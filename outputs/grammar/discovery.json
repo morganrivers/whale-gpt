@@ -1,0 +1,2612 @@
+{
+  "phrases": {
+    "n3": [
+      {
+        "ngram": "5.4 5.4 5.4",
+        "count": 661,
+        "expected": 71.77,
+        "ratio": 9.21,
+        "llr": 2935.3,
+        "p_last_given_prefix": 0.864,
+        "prefix_total": 765
+      },
+      {
+        "ngram": "6.0 6.0 6.0",
+        "count": 151,
+        "expected": 3.03,
+        "ratio": 49.81,
+        "llr": 1180.3,
+        "p_last_given_prefix": 0.778,
+        "prefix_total": 194
+      },
+      {
+        "ngram": "5.3 5.3 5.3",
+        "count": 42,
+        "expected": 1.0,
+        "ratio": 41.85,
+        "llr": 313.7,
+        "p_last_given_prefix": 0.532,
+        "prefix_total": 79
+      },
+      {
+        "ngram": "5.2 5.2 5.2",
+        "count": 52,
+        "expected": 2.8,
+        "ratio": 18.6,
+        "llr": 304.0,
+        "p_last_given_prefix": 0.406,
+        "prefix_total": 128
+      },
+      {
+        "ngram": "5.4 4.2 5.4",
+        "count": 74,
+        "expected": 10.13,
+        "ratio": 7.3,
+        "llr": 294.3,
+        "p_last_given_prefix": 0.718,
+        "prefix_total": 103
+      },
+      {
+        "ngram": "3.0 3.0 3.0",
+        "count": 42,
+        "expected": 1.32,
+        "ratio": 31.9,
+        "llr": 290.9,
+        "p_last_given_prefix": 0.5,
+        "prefix_total": 84
+      },
+      {
+        "ngram": "3.0 1.0 1.0",
+        "count": 52,
+        "expected": 5.93,
+        "ratio": 8.77,
+        "llr": 225.9,
+        "p_last_given_prefix": 0.578,
+        "prefix_total": 90
+      },
+      {
+        "ngram": "6.1 6.1 6.1",
+        "count": 19,
+        "expected": 0.05,
+        "ratio": 378.63,
+        "llr": 225.6,
+        "p_last_given_prefix": 0.594,
+        "prefix_total": 32
+      },
+      {
+        "ngram": "1.0 1.0 1.0",
+        "count": 67,
+        "expected": 12.58,
+        "ratio": 5.33,
+        "llr": 224.2,
+        "p_last_given_prefix": 0.328,
+        "prefix_total": 204
+      },
+      {
+        "ngram": "4.2 5.4 4.2",
+        "count": 30,
+        "expected": 1.43,
+        "ratio": 20.98,
+        "llr": 182.6,
+        "p_last_given_prefix": 0.361,
+        "prefix_total": 83
+      },
+      {
+        "ngram": "5.4 5.4 4.2",
+        "count": 54,
+        "expected": 10.13,
+        "ratio": 5.33,
+        "llr": 180.7,
+        "p_last_given_prefix": 0.071,
+        "prefix_total": 765
+      },
+      {
+        "ngram": "8.0 3.0 1.0",
+        "count": 30,
+        "expected": 1.65,
+        "ratio": 18.21,
+        "llr": 174.1,
+        "p_last_given_prefix": 0.698,
+        "prefix_total": 43
+      },
+      {
+        "ngram": "8.0 8.0 9.0",
+        "count": 15,
+        "expected": 0.05,
+        "ratio": 319.4,
+        "llr": 173.0,
+        "p_last_given_prefix": 0.25,
+        "prefix_total": 60
+      },
+      {
+        "ngram": "3.3 5.3 3.3",
+        "count": 15,
+        "expected": 0.08,
+        "ratio": 194.54,
+        "llr": 158.1,
+        "p_last_given_prefix": 0.652,
+        "prefix_total": 23
+      },
+      {
+        "ngram": "0.0 1.0 0.0",
+        "count": 24,
+        "expected": 1.14,
+        "ratio": 21.12,
+        "llr": 146.4,
+        "p_last_given_prefix": 0.375,
+        "prefix_total": 64
+      },
+      {
+        "ngram": "7.2 7.2 7.2",
+        "count": 7,
+        "expected": 0.0,
+        "ratio": 17436.74,
+        "llr": 136.7,
+        "p_last_given_prefix": 0.636,
+        "prefix_total": 11
+      },
+      {
+        "ngram": "8.0 8.0 3.0",
+        "count": 18,
+        "expected": 0.46,
+        "ratio": 39.31,
+        "llr": 132.2,
+        "p_last_given_prefix": 0.3,
+        "prefix_total": 60
+      },
+      {
+        "ngram": "3.4 3.4 3.4",
+        "count": 10,
+        "expected": 0.02,
+        "ratio": 525.51,
+        "llr": 125.3,
+        "p_last_given_prefix": 0.476,
+        "prefix_total": 21
+      },
+      {
+        "ngram": "4.2 5.4 5.4",
+        "count": 42,
+        "expected": 10.13,
+        "ratio": 4.15,
+        "llr": 119.5,
+        "p_last_given_prefix": 0.506,
+        "prefix_total": 83
+      },
+      {
+        "ngram": "1.0 0.0 1.0",
+        "count": 28,
+        "expected": 3.78,
+        "ratio": 7.41,
+        "llr": 112.1,
+        "p_last_given_prefix": 0.452,
+        "prefix_total": 62
+      },
+      {
+        "ngram": "0.2 1.0 1.0",
+        "count": 16,
+        "expected": 0.59,
+        "ratio": 27.17,
+        "llr": 105.7,
+        "p_last_given_prefix": 0.696,
+        "prefix_total": 23
+      },
+      {
+        "ngram": "1.0 8.0 8.0",
+        "count": 18,
+        "expected": 0.97,
+        "ratio": 18.53,
+        "llr": 105.1,
+        "p_last_given_prefix": 0.562,
+        "prefix_total": 32
+      },
+      {
+        "ngram": "5.3 3.3 5.3",
+        "count": 13,
+        "expected": 0.28,
+        "ratio": 46.74,
+        "llr": 100.0,
+        "p_last_given_prefix": 0.52,
+        "prefix_total": 25
+      },
+      {
+        "ngram": "0.0 6.0 0.0",
+        "count": 16,
+        "expected": 0.71,
+        "ratio": 22.62,
+        "llr": 99.8,
+        "p_last_given_prefix": 0.471,
+        "prefix_total": 34
+      },
+      {
+        "ngram": "3.0 6.1 6.1",
+        "count": 11,
+        "expected": 0.15,
+        "ratio": 73.77,
+        "llr": 94.6,
+        "p_last_given_prefix": 0.55,
+        "prefix_total": 20
+      }
+    ],
+    "n4": [
+      {
+        "ngram": "5.4 5.4 5.4 5.4",
+        "count": 548,
+        "expected": 17.68,
+        "ratio": 31.0,
+        "llr": 3763.7,
+        "p_last_given_prefix": 0.895,
+        "prefix_total": 612
+      },
+      {
+        "ngram": "6.0 6.0 6.0 6.0",
+        "count": 112,
+        "expected": 0.26,
+        "ratio": 430.69,
+        "llr": 1358.6,
+        "p_last_given_prefix": 0.83,
+        "prefix_total": 135
+      },
+      {
+        "ngram": "5.3 5.3 5.3 5.3",
+        "count": 28,
+        "expected": 0.06,
+        "ratio": 470.24,
+        "llr": 344.6,
+        "p_last_given_prefix": 0.718,
+        "prefix_total": 39
+      },
+      {
+        "ngram": "5.2 5.2 5.2 5.2",
+        "count": 29,
+        "expected": 0.23,
+        "ratio": 124.27,
+        "llr": 279.7,
+        "p_last_given_prefix": 0.58,
+        "prefix_total": 50
+      },
+      {
+        "ngram": "6.1 6.1 6.1 6.1",
+        "count": 14,
+        "expected": 0.0,
+        "ratio": 12761.71,
+        "llr": 264.7,
+        "p_last_given_prefix": 1.0,
+        "prefix_total": 14
+      },
+      {
+        "ngram": "8.0 3.0 1.0 1.0",
+        "count": 27,
+        "expected": 0.23,
+        "ratio": 118.91,
+        "llr": 258.0,
+        "p_last_given_prefix": 0.931,
+        "prefix_total": 29
+      },
+      {
+        "ngram": "3.0 3.0 3.0 3.0",
+        "count": 21,
+        "expected": 0.09,
+        "ratio": 245.55,
+        "llr": 231.1,
+        "p_last_given_prefix": 0.5,
+        "prefix_total": 42
+      },
+      {
+        "ngram": "5.4 5.4 5.4 4.2",
+        "count": 41,
+        "expected": 2.5,
+        "ratio": 16.43,
+        "llr": 229.5,
+        "p_last_given_prefix": 0.067,
+        "prefix_total": 612
+      },
+      {
+        "ngram": "5.4 4.2 5.4 4.2",
+        "count": 26,
+        "expected": 0.35,
+        "ratio": 73.81,
+        "llr": 223.7,
+        "p_last_given_prefix": 0.356,
+        "prefix_total": 73
+      },
+      {
+        "ngram": "5.4 4.2 5.4 5.4",
+        "count": 39,
+        "expected": 2.5,
+        "ratio": 15.63,
+        "llr": 214.4,
+        "p_last_given_prefix": 0.534,
+        "prefix_total": 73
+      },
+      {
+        "ngram": "5.4 5.4 4.2 5.4",
+        "count": 39,
+        "expected": 2.5,
+        "ratio": 15.63,
+        "llr": 214.4,
+        "p_last_given_prefix": 0.722,
+        "prefix_total": 54
+      },
+      {
+        "ngram": "4.2 5.4 4.2 5.4",
+        "count": 24,
+        "expected": 0.35,
+        "ratio": 68.13,
+        "llr": 202.6,
+        "p_last_given_prefix": 0.857,
+        "prefix_total": 28
+      },
+      {
+        "ngram": "8.0 8.0 3.0 1.0",
+        "count": 15,
+        "expected": 0.06,
+        "ratio": 237.67,
+        "llr": 164.1,
+        "p_last_given_prefix": 0.833,
+        "prefix_total": 18
+      },
+      {
+        "ngram": "4.2 5.4 5.4 5.4",
+        "count": 31,
+        "expected": 2.5,
+        "ratio": 12.42,
+        "llr": 156.2,
+        "p_last_given_prefix": 0.756,
+        "prefix_total": 41
+      },
+      {
+        "ngram": "1.0 1.0 1.0 1.0",
+        "count": 28,
+        "expected": 1.73,
+        "ratio": 16.15,
+        "llr": 155.8,
+        "p_last_given_prefix": 0.452,
+        "prefix_total": 62
+      },
+      {
+        "ngram": "5.3 3.3 5.3 3.3",
+        "count": 10,
+        "expected": 0.0,
+        "ratio": 2185.72,
+        "llr": 153.8,
+        "p_last_given_prefix": 0.833,
+        "prefix_total": 12
+      },
+      {
+        "ngram": "3.3 5.3 3.3 5.3",
+        "count": 9,
+        "expected": 0.0,
+        "ratio": 1967.15,
+        "llr": 136.5,
+        "p_last_given_prefix": 0.6,
+        "prefix_total": 15
+      },
+      {
+        "ngram": "5.3 8.0 8.0 9.0",
+        "count": 8,
+        "expected": 0.0,
+        "ratio": 2870.76,
+        "llr": 127.4,
+        "p_last_given_prefix": 0.727,
+        "prefix_total": 11
+      },
+      {
+        "ngram": "3.0 3.0 3.0 1.0",
+        "count": 14,
+        "expected": 0.18,
+        "ratio": 77.15,
+        "llr": 121.7,
+        "p_last_given_prefix": 0.333,
+        "prefix_total": 42
+      },
+      {
+        "ngram": "3.2 5.2 5.2 3.2",
+        "count": 8,
+        "expected": 0.02,
+        "ratio": 455.57,
+        "llr": 97.9,
+        "p_last_given_prefix": 0.667,
+        "prefix_total": 12
+      },
+      {
+        "ngram": "8.0 8.0 9.0 1.0",
+        "count": 7,
+        "expected": 0.01,
+        "ratio": 1081.41,
+        "llr": 97.8,
+        "p_last_given_prefix": 0.467,
+        "prefix_total": 15
+      },
+      {
+        "ngram": "1.0 1.0 8.0 8.0",
+        "count": 11,
+        "expected": 0.13,
+        "ratio": 82.14,
+        "llr": 97.0,
+        "p_last_given_prefix": 0.846,
+        "prefix_total": 13
+      },
+      {
+        "ngram": "1.0 0.0 1.0 0.0",
+        "count": 11,
+        "expected": 0.16,
+        "ratio": 70.23,
+        "llr": 93.5,
+        "p_last_given_prefix": 0.393,
+        "prefix_total": 28
+      },
+      {
+        "ngram": "3.0 3.0 1.0 1.0",
+        "count": 13,
+        "expected": 0.39,
+        "ratio": 33.76,
+        "llr": 91.5,
+        "p_last_given_prefix": 0.591,
+        "prefix_total": 22
+      },
+      {
+        "ngram": "8.0 8.0 9.0 3.0",
+        "count": 6,
+        "expected": 0.0,
+        "ratio": 1966.75,
+        "llr": 91.0,
+        "p_last_given_prefix": 0.4,
+        "prefix_total": 15
+      }
+    ],
+    "n5": [
+      {
+        "ngram": "5.4 5.4 5.4 5.4 5.4",
+        "count": 453,
+        "expected": 4.35,
+        "ratio": 104.05,
+        "llr": 4208.2,
+        "p_last_given_prefix": 0.895,
+        "prefix_total": 506
+      },
+      {
+        "ngram": "6.0 6.0 6.0 6.0 6.0",
+        "count": 80,
+        "expected": 0.02,
+        "ratio": 3586.36,
+        "llr": 1309.6,
+        "p_last_given_prefix": 0.816,
+        "prefix_total": 98
+      },
+      {
+        "ngram": "5.3 5.3 5.3 5.3 5.3",
+        "count": 17,
+        "expected": 0.0,
+        "ratio": 4811.44,
+        "llr": 288.3,
+        "p_last_given_prefix": 0.68,
+        "prefix_total": 25
+      },
+      {
+        "ngram": "5.4 5.4 5.4 5.4 4.2",
+        "count": 34,
+        "expected": 0.61,
+        "ratio": 55.32,
+        "llr": 272.9,
+        "p_last_given_prefix": 0.067,
+        "prefix_total": 506
+      },
+      {
+        "ngram": "6.1 6.1 6.1 6.1 6.1",
+        "count": 10,
+        "expected": 0.0,
+        "ratio": 416969.26,
+        "llr": 258.8,
+        "p_last_given_prefix": 1.0,
+        "prefix_total": 10
+      },
+      {
+        "ngram": "5.4 5.4 5.4 4.2 5.4",
+        "count": 31,
+        "expected": 0.61,
+        "ratio": 50.44,
+        "llr": 243.1,
+        "p_last_given_prefix": 0.756,
+        "prefix_total": 41
+      },
+      {
+        "ngram": "5.4 4.2 5.4 5.4 5.4",
+        "count": 30,
+        "expected": 0.61,
+        "ratio": 48.81,
+        "llr": 233.3,
+        "p_last_given_prefix": 0.789,
+        "prefix_total": 38
+      },
+      {
+        "ngram": "5.2 5.2 5.2 5.2 5.2",
+        "count": 17,
+        "expected": 0.02,
+        "ratio": 872.52,
+        "llr": 230.2,
+        "p_last_given_prefix": 0.607,
+        "prefix_total": 28
+      },
+      {
+        "ngram": "5.4 4.2 5.4 4.2 5.4",
+        "count": 20,
+        "expected": 0.09,
+        "ratio": 230.51,
+        "llr": 217.6,
+        "p_last_given_prefix": 0.833,
+        "prefix_total": 24
+      },
+      {
+        "ngram": "4.2 5.4 5.4 5.4 5.4",
+        "count": 27,
+        "expected": 0.61,
+        "ratio": 43.93,
+        "llr": 204.3,
+        "p_last_given_prefix": 0.931,
+        "prefix_total": 29
+      },
+      {
+        "ngram": "8.0 8.0 3.0 1.0 1.0",
+        "count": 13,
+        "expected": 0.01,
+        "ratio": 1494.47,
+        "llr": 190.0,
+        "p_last_given_prefix": 0.929,
+        "prefix_total": 14
+      },
+      {
+        "ngram": "3.3 5.3 3.3 5.3 3.3",
+        "count": 7,
+        "expected": 0.0,
+        "ratio": 93020.27,
+        "llr": 160.2,
+        "p_last_given_prefix": 0.778,
+        "prefix_total": 9
+      },
+      {
+        "ngram": "5.4 5.4 4.2 5.4 4.2",
+        "count": 15,
+        "expected": 0.09,
+        "ratio": 172.88,
+        "llr": 154.6,
+        "p_last_given_prefix": 0.385,
+        "prefix_total": 39
+      },
+      {
+        "ngram": "5.3 3.3 5.3 3.3 5.3",
+        "count": 7,
+        "expected": 0.0,
+        "ratio": 25784.57,
+        "llr": 142.2,
+        "p_last_given_prefix": 0.7,
+        "prefix_total": 10
+      },
+      {
+        "ngram": "1.0 1.0 1.0 1.0 1.0",
+        "count": 16,
+        "expected": 0.24,
+        "ratio": 66.97,
+        "llr": 134.5,
+        "p_last_given_prefix": 0.593,
+        "prefix_total": 27
+      },
+      {
+        "ngram": "5.4 5.4 4.2 5.4 5.4",
+        "count": 19,
+        "expected": 0.61,
+        "ratio": 30.91,
+        "llr": 130.4,
+        "p_last_given_prefix": 0.487,
+        "prefix_total": 39
+      },
+      {
+        "ngram": "4.2 5.4 4.2 5.4 5.4",
+        "count": 13,
+        "expected": 0.09,
+        "ratio": 149.83,
+        "llr": 130.2,
+        "p_last_given_prefix": 0.565,
+        "prefix_total": 23
+      },
+      {
+        "ngram": "4.2 5.4 4.2 5.4 4.2",
+        "count": 9,
+        "expected": 0.01,
+        "ratio": 734.81,
+        "llr": 118.8,
+        "p_last_given_prefix": 0.391,
+        "prefix_total": 23
+      },
+      {
+        "ngram": "3.0 3.0 3.0 3.0 3.0",
+        "count": 8,
+        "expected": 0.01,
+        "ratio": 1440.02,
+        "llr": 116.4,
+        "p_last_given_prefix": 0.381,
+        "prefix_total": 21
+      },
+      {
+        "ngram": "3.0 3.0 3.0 1.0 1.0",
+        "count": 9,
+        "expected": 0.03,
+        "ratio": 359.84,
+        "llr": 105.9,
+        "p_last_given_prefix": 0.643,
+        "prefix_total": 14
+      },
+      {
+        "ngram": "8.0 8.0 9.0 1.0 1.0",
+        "count": 6,
+        "expected": 0.0,
+        "ratio": 6725.12,
+        "llr": 105.8,
+        "p_last_given_prefix": 0.857,
+        "prefix_total": 7
+      },
+      {
+        "ngram": "3.0 3.0 3.0 3.0 1.0",
+        "count": 8,
+        "expected": 0.01,
+        "ratio": 678.68,
+        "llr": 104.3,
+        "p_last_given_prefix": 0.381,
+        "prefix_total": 21
+      },
+      {
+        "ngram": "5.3 5.4 5.3 5.4 5.3",
+        "count": 10,
+        "expected": 0.06,
+        "ratio": 164.27,
+        "llr": 102.0,
+        "p_last_given_prefix": 0.625,
+        "prefix_total": 16
+      },
+      {
+        "ngram": "3.2 5.2 5.2 3.2 5.2",
+        "count": 6,
+        "expected": 0.0,
+        "ratio": 4092.45,
+        "llr": 99.8,
+        "p_last_given_prefix": 0.75,
+        "prefix_total": 8
+      },
+      {
+        "ngram": "5.2 3.2 5.2 5.2 3.2",
+        "count": 6,
+        "expected": 0.0,
+        "ratio": 4092.45,
+        "llr": 99.8,
+        "p_last_given_prefix": 0.75,
+        "prefix_total": 8
+      }
+    ]
+  },
+  "duality_of_patterning": {
+    "n_rhythm_bigrams_with_count_ge_5": 69,
+    "avg_tempo_entropy_given_rhythm_bits": 1.58,
+    "n_tempo_bigrams_with_count_ge_5": 25,
+    "avg_rhythm_entropy_given_tempo_bits": 2.932,
+    "rhythm_bigram_with_most_diverse_tempos": [
+      {
+        "rhythm_bigram": "(3, 5)",
+        "count": 150,
+        "tempo_distinct_realizations": 15,
+        "tempo_entropy_bits": 3.309,
+        "top_realizations": [
+          [
+            [
+              2,
+              2
+            ],
+            30
+          ],
+          [
+            [
+              0,
+              2
+            ],
+            25
+          ],
+          [
+            [
+              3,
+              3
+            ],
+            24
+          ],
+          [
+            [
+              4,
+              4
+            ],
+            18
+          ],
+          [
+            [
+              3,
+              2
+            ],
+            13
+          ]
+        ]
+      },
+      {
+        "rhythm_bigram": "(5, 3)",
+        "count": 146,
+        "tempo_distinct_realizations": 14,
+        "tempo_entropy_bits": 3.277,
+        "top_realizations": [
+          [
+            [
+              2,
+              2
+            ],
+            27
+          ],
+          [
+            [
+              2,
+              0
+            ],
+            26
+          ],
+          [
+            [
+              3,
+              3
+            ],
+            25
+          ],
+          [
+            [
+              4,
+              4
+            ],
+            17
+          ],
+          [
+            [
+              3,
+              2
+            ],
+            12
+          ]
+        ]
+      },
+      {
+        "rhythm_bigram": "(2, 5)",
+        "count": 41,
+        "tempo_distinct_realizations": 11,
+        "tempo_entropy_bits": 3.245,
+        "top_realizations": [
+          [
+            [
+              1,
+              2
+            ],
+            10
+          ],
+          [
+            [
+              3,
+              4
+            ],
+            5
+          ],
+          [
+            [
+              1,
+              4
+            ],
+            4
+          ],
+          [
+            [
+              2,
+              2
+            ],
+            4
+          ],
+          [
+            [
+              3,
+              3
+            ],
+            3
+          ]
+        ]
+      },
+      {
+        "rhythm_bigram": "(3, 2)",
+        "count": 23,
+        "tempo_distinct_realizations": 11,
+        "tempo_entropy_bits": 3.171,
+        "top_realizations": [
+          [
+            [
+              2,
+              1
+            ],
+            5
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            4
+          ],
+          [
+            [
+              0,
+              2
+            ],
+            3
+          ],
+          [
+            [
+              0,
+              0
+            ],
+            3
+          ],
+          [
+            [
+              4,
+              3
+            ],
+            2
+          ]
+        ]
+      },
+      {
+        "rhythm_bigram": "(5, 2)",
+        "count": 55,
+        "tempo_distinct_realizations": 12,
+        "tempo_entropy_bits": 3.115,
+        "top_realizations": [
+          [
+            [
+              2,
+              2
+            ],
+            13
+          ],
+          [
+            [
+              4,
+              3
+            ],
+            12
+          ],
+          [
+            [
+              2,
+              1
+            ],
+            7
+          ],
+          [
+            [
+              3,
+              2
+            ],
+            5
+          ],
+          [
+            [
+              4,
+              2
+            ],
+            4
+          ]
+        ]
+      },
+      {
+        "rhythm_bigram": "(6, 5)",
+        "count": 50,
+        "tempo_distinct_realizations": 11,
+        "tempo_entropy_bits": 3.059,
+        "top_realizations": [
+          [
+            [
+              0,
+              2
+            ],
+            13
+          ],
+          [
+            [
+              1,
+              2
+            ],
+            8
+          ],
+          [
+            [
+              1,
+              4
+            ],
+            7
+          ],
+          [
+            [
+              2,
+              2
+            ],
+            6
+          ],
+          [
+            [
+              0,
+              0
+            ],
+            4
+          ]
+        ]
+      },
+      {
+        "rhythm_bigram": "(2, 3)",
+        "count": 33,
+        "tempo_distinct_realizations": 10,
+        "tempo_entropy_bits": 2.931,
+        "top_realizations": [
+          [
+            [
+              0,
+              0
+            ],
+            9
+          ],
+          [
+            [
+              3,
+              1
+            ],
+            5
+          ],
+          [
+            [
+              2,
+              0
+            ],
+            5
+          ],
+          [
+            [
+              3,
+              0
+            ],
+            4
+          ],
+          [
+            [
+              2,
+              1
+            ],
+            4
+          ]
+        ]
+      },
+      {
+        "rhythm_bigram": "(5, 6)",
+        "count": 42,
+        "tempo_distinct_realizations": 10,
+        "tempo_entropy_bits": 2.926,
+        "top_realizations": [
+          [
+            [
+              2,
+              0
+            ],
+            13
+          ],
+          [
+            [
+              2,
+              1
+            ],
+            6
+          ],
+          [
+            [
+              0,
+              0
+            ],
+            5
+          ],
+          [
+            [
+              2,
+              2
+            ],
+            5
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            4
+          ]
+        ]
+      },
+      {
+        "rhythm_bigram": "(2, 1)",
+        "count": 40,
+        "tempo_distinct_realizations": 10,
+        "tempo_entropy_bits": 2.77,
+        "top_realizations": [
+          [
+            [
+              3,
+              0
+            ],
+            13
+          ],
+          [
+            [
+              2,
+              0
+            ],
+            8
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            5
+          ],
+          [
+            [
+              0,
+              0
+            ],
+            5
+          ],
+          [
+            [
+              1,
+              1
+            ],
+            3
+          ]
+        ]
+      },
+      {
+        "rhythm_bigram": "(5, 1)",
+        "count": 76,
+        "tempo_distinct_realizations": 9,
+        "tempo_entropy_bits": 2.69,
+        "top_realizations": [
+          [
+            [
+              2,
+              1
+            ],
+            20
+          ],
+          [
+            [
+              2,
+              0
+            ],
+            15
+          ],
+          [
+            [
+              4,
+              2
+            ],
+            14
+          ],
+          [
+            [
+              3,
+              0
+            ],
+            11
+          ],
+          [
+            [
+              4,
+              0
+            ],
+            8
+          ]
+        ]
+      }
+    ],
+    "tempo_bigram_with_most_diverse_rhythms": [
+      {
+        "tempo_bigram": "(0, 0)",
+        "count": 1439,
+        "rhythm_distinct_realizations": 112,
+        "rhythm_entropy_bits": 4.921,
+        "top_realizations": [
+          [
+            [
+              1,
+              1
+            ],
+            215
+          ],
+          [
+            [
+              6,
+              6
+            ],
+            214
+          ],
+          [
+            [
+              3,
+              1
+            ],
+            95
+          ],
+          [
+            [
+              3,
+              3
+            ],
+            85
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            66
+          ]
+        ]
+      },
+      {
+        "tempo_bigram": "(2, 0)",
+        "count": 203,
+        "rhythm_distinct_realizations": 41,
+        "rhythm_entropy_bits": 4.516,
+        "top_realizations": [
+          [
+            [
+              5,
+              3
+            ],
+            26
+          ],
+          [
+            [
+              0,
+              1
+            ],
+            23
+          ],
+          [
+            [
+              4,
+              1
+            ],
+            17
+          ],
+          [
+            [
+              1,
+              1
+            ],
+            17
+          ],
+          [
+            [
+              5,
+              1
+            ],
+            15
+          ]
+        ]
+      },
+      {
+        "tempo_bigram": "(0, 1)",
+        "count": 105,
+        "rhythm_distinct_realizations": 30,
+        "rhythm_entropy_bits": 4.251,
+        "top_realizations": [
+          [
+            [
+              3,
+              6
+            ],
+            20
+          ],
+          [
+            [
+              1,
+              1
+            ],
+            11
+          ],
+          [
+            [
+              6,
+              6
+            ],
+            11
+          ],
+          [
+            [
+              6,
+              1
+            ],
+            6
+          ],
+          [
+            [
+              0,
+              2
+            ],
+            6
+          ]
+        ]
+      },
+      {
+        "tempo_bigram": "(1, 0)",
+        "count": 143,
+        "rhythm_distinct_realizations": 33,
+        "rhythm_entropy_bits": 3.997,
+        "top_realizations": [
+          [
+            [
+              1,
+              1
+            ],
+            33
+          ],
+          [
+            [
+              6,
+              3
+            ],
+            18
+          ],
+          [
+            [
+              1,
+              0
+            ],
+            16
+          ],
+          [
+            [
+              6,
+              6
+            ],
+            14
+          ],
+          [
+            [
+              2,
+              6
+            ],
+            8
+          ]
+        ]
+      },
+      {
+        "tempo_bigram": "(0, 2)",
+        "count": 180,
+        "rhythm_distinct_realizations": 33,
+        "rhythm_entropy_bits": 3.993,
+        "top_realizations": [
+          [
+            [
+              1,
+              5
+            ],
+            34
+          ],
+          [
+            [
+              3,
+              5
+            ],
+            25
+          ],
+          [
+            [
+              0,
+              5
+            ],
+            24
+          ],
+          [
+            [
+              1,
+              3
+            ],
+            17
+          ],
+          [
+            [
+              6,
+              5
+            ],
+            13
+          ]
+        ]
+      },
+      {
+        "tempo_bigram": "(2, 1)",
+        "count": 75,
+        "rhythm_distinct_realizations": 27,
+        "rhythm_entropy_bits": 3.989,
+        "top_realizations": [
+          [
+            [
+              5,
+              1
+            ],
+            20
+          ],
+          [
+            [
+              5,
+              2
+            ],
+            7
+          ],
+          [
+            [
+              5,
+              6
+            ],
+            6
+          ],
+          [
+            [
+              3,
+              2
+            ],
+            5
+          ],
+          [
+            [
+              3,
+              1
+            ],
+            4
+          ]
+        ]
+      },
+      {
+        "tempo_bigram": "(3, 0)",
+        "count": 73,
+        "rhythm_distinct_realizations": 18,
+        "rhythm_entropy_bits": 3.656,
+        "top_realizations": [
+          [
+            [
+              2,
+              1
+            ],
+            13
+          ],
+          [
+            [
+              5,
+              8
+            ],
+            12
+          ],
+          [
+            [
+              5,
+              1
+            ],
+            11
+          ],
+          [
+            [
+              3,
+              8
+            ],
+            6
+          ],
+          [
+            [
+              2,
+              3
+            ],
+            4
+          ]
+        ]
+      },
+      {
+        "tempo_bigram": "(1, 2)",
+        "count": 43,
+        "rhythm_distinct_realizations": 18,
+        "rhythm_entropy_bits": 3.575,
+        "top_realizations": [
+          [
+            [
+              2,
+              5
+            ],
+            10
+          ],
+          [
+            [
+              6,
+              5
+            ],
+            8
+          ],
+          [
+            [
+              3,
+              5
+            ],
+            5
+          ],
+          [
+            [
+              1,
+              5
+            ],
+            3
+          ],
+          [
+            [
+              2,
+              3
+            ],
+            2
+          ]
+        ]
+      },
+      {
+        "tempo_bigram": "(2, 2)",
+        "count": 329,
+        "rhythm_distinct_realizations": 39,
+        "rhythm_entropy_bits": 3.555,
+        "top_realizations": [
+          [
+            [
+              5,
+              5
+            ],
+            134
+          ],
+          [
+            [
+              3,
+              5
+            ],
+            30
+          ],
+          [
+            [
+              5,
+              3
+            ],
+            27
+          ],
+          [
+            [
+              3,
+              3
+            ],
+            16
+          ],
+          [
+            [
+              4,
+              4
+            ],
+            15
+          ]
+        ]
+      },
+      {
+        "tempo_bigram": "(3, 2)",
+        "count": 88,
+        "rhythm_distinct_realizations": 18,
+        "rhythm_entropy_bits": 3.272,
+        "top_realizations": [
+          [
+            [
+              5,
+              5
+            ],
+            28
+          ],
+          [
+            [
+              3,
+              5
+            ],
+            13
+          ],
+          [
+            [
+              5,
+              3
+            ],
+            12
+          ],
+          [
+            [
+              5,
+              4
+            ],
+            7
+          ],
+          [
+            [
+              5,
+              2
+            ],
+            5
+          ]
+        ]
+      }
+    ]
+  },
+  "fsa": {
+    "n_states": 29,
+    "most_deterministic": [
+      {
+        "state": "(5, 4)",
+        "n": 1111,
+        "top_successors": [
+          [
+            "(5, 4)",
+            824,
+            0.742
+          ],
+          [
+            "(4, 2)",
+            105,
+            0.095
+          ],
+          [
+            "(5, 3)",
+            50,
+            0.045
+          ]
+        ],
+        "p_top": 0.742,
+        "successor_entropy_bits": 1.68
+      },
+      {
+        "state": "(0, 2)",
+        "n": 31,
+        "top_successors": [
+          [
+            "(1, 0)",
+            23,
+            0.742
+          ],
+          [
+            "(0, 0)",
+            2,
+            0.065
+          ],
+          [
+            "(3, 1)",
+            2,
+            0.065
+          ]
+        ],
+        "p_top": 0.742,
+        "successor_entropy_bits": 1.469
+      },
+      {
+        "state": "(1, 2)",
+        "n": 29,
+        "top_successors": [
+          [
+            "(1, 0)",
+            17,
+            0.586
+          ],
+          [
+            "(4, 2)",
+            6,
+            0.207
+          ],
+          [
+            "(5, 4)",
+            3,
+            0.103
+          ]
+        ],
+        "p_top": 0.586,
+        "successor_entropy_bits": 1.763
+      },
+      {
+        "state": "(6, 0)",
+        "n": 374,
+        "top_successors": [
+          [
+            "(6, 0)",
+            214,
+            0.572
+          ],
+          [
+            "(0, 0)",
+            42,
+            0.112
+          ],
+          [
+            "(3, 0)",
+            28,
+            0.075
+          ]
+        ],
+        "p_top": 0.572,
+        "successor_entropy_bits": 2.446
+      },
+      {
+        "state": "(7, 2)",
+        "n": 20,
+        "top_successors": [
+          [
+            "(7, 2)",
+            11,
+            0.55
+          ],
+          [
+            "(5, 4)",
+            6,
+            0.3
+          ],
+          [
+            "(3, 2)",
+            1,
+            0.05
+          ]
+        ],
+        "p_top": 0.55,
+        "successor_entropy_bits": 1.644
+      },
+      {
+        "state": "(1, 1)",
+        "n": 64,
+        "top_successors": [
+          [
+            "(1, 0)",
+            33,
+            0.516
+          ],
+          [
+            "(0, 0)",
+            16,
+            0.25
+          ],
+          [
+            "(5, 2)",
+            3,
+            0.047
+          ]
+        ],
+        "p_top": 0.516,
+        "successor_entropy_bits": 2.262
+      },
+      {
+        "state": "(4, 2)",
+        "n": 165,
+        "top_successors": [
+          [
+            "(5, 4)",
+            85,
+            0.515
+          ],
+          [
+            "(1, 0)",
+            17,
+            0.103
+          ],
+          [
+            "(4, 2)",
+            15,
+            0.091
+          ]
+        ],
+        "p_top": 0.515,
+        "successor_entropy_bits": 2.694
+      },
+      {
+        "state": "(6, 1)",
+        "n": 98,
+        "top_successors": [
+          [
+            "(6, 1)",
+            38,
+            0.388
+          ],
+          [
+            "(3, 0)",
+            18,
+            0.184
+          ],
+          [
+            "(6, 0)",
+            14,
+            0.143
+          ]
+        ],
+        "p_top": 0.388,
+        "successor_entropy_bits": 2.641
+      },
+      {
+        "state": "(3, 1)",
+        "n": 19,
+        "top_successors": [
+          [
+            "(1, 0)",
+            7,
+            0.368
+          ],
+          [
+            "(5, 2)",
+            5,
+            0.263
+          ],
+          [
+            "(3, 0)",
+            1,
+            0.053
+          ]
+        ],
+        "p_top": 0.368,
+        "successor_entropy_bits": 2.603
+      },
+      {
+        "state": "(2, 3)",
+        "n": 36,
+        "top_successors": [
+          [
+            "(1, 0)",
+            13,
+            0.361
+          ],
+          [
+            "(5, 4)",
+            5,
+            0.139
+          ],
+          [
+            "(3, 1)",
+            5,
+            0.139
+          ]
+        ],
+        "p_top": 0.361,
+        "successor_entropy_bits": 2.702
+      },
+      {
+        "state": "(5, 2)",
+        "n": 388,
+        "top_successors": [
+          [
+            "(5, 2)",
+            134,
+            0.345
+          ],
+          [
+            "(5, 3)",
+            32,
+            0.082
+          ],
+          [
+            "(5, 4)",
+            31,
+            0.08
+          ]
+        ],
+        "p_top": 0.345,
+        "successor_entropy_bits": 3.669
+      },
+      {
+        "state": "(1, 0)",
+        "n": 632,
+        "top_successors": [
+          [
+            "(1, 0)",
+            215,
+            0.34
+          ],
+          [
+            "(0, 0)",
+            64,
+            0.101
+          ],
+          [
+            "(5, 4)",
+            50,
+            0.079
+          ]
+        ],
+        "p_top": 0.34,
+        "successor_entropy_bits": 3.76
+      },
+      {
+        "state": "(0, 0)",
+        "n": 194,
+        "top_successors": [
+          [
+            "(1, 0)",
+            66,
+            0.34
+          ],
+          [
+            "(6, 0)",
+            35,
+            0.18
+          ],
+          [
+            "(0, 0)",
+            34,
+            0.175
+          ]
+        ],
+        "p_top": 0.34,
+        "successor_entropy_bits": 2.833
+      },
+      {
+        "state": "(8, 0)",
+        "n": 180,
+        "top_successors": [
+          [
+            "(8, 0)",
+            61,
+            0.339
+          ],
+          [
+            "(3, 0)",
+            43,
+            0.239
+          ],
+          [
+            "(1, 0)",
+            39,
+            0.217
+          ]
+        ],
+        "p_top": 0.339,
+        "successor_entropy_bits": 2.461
+      },
+      {
+        "state": "(3, 4)",
+        "n": 71,
+        "top_successors": [
+          [
+            "(3, 4)",
+            24,
+            0.338
+          ],
+          [
+            "(5, 4)",
+            18,
+            0.254
+          ],
+          [
+            "(4, 2)",
+            7,
+            0.099
+          ]
+        ],
+        "p_top": 0.338,
+        "successor_entropy_bits": 2.952
+      },
+      {
+        "state": "(3, 0)",
+        "n": 306,
+        "top_successors": [
+          [
+            "(1, 0)",
+            95,
+            0.31
+          ],
+          [
+            "(3, 0)",
+            85,
+            0.278
+          ],
+          [
+            "(5, 2)",
+            25,
+            0.082
+          ]
+        ],
+        "p_top": 0.31,
+        "successor_entropy_bits": 3.136
+      },
+      {
+        "state": "(3, 3)",
+        "n": 79,
+        "top_successors": [
+          [
+            "(5, 3)",
+            24,
+            0.304
+          ],
+          [
+            "(5, 2)",
+            13,
+            0.165
+          ],
+          [
+            "(3, 3)",
+            12,
+            0.152
+          ]
+        ],
+        "p_top": 0.304,
+        "successor_entropy_bits": 3.298
+      },
+      {
+        "state": "(5, 3)",
+        "n": 279,
+        "top_successors": [
+          [
+            "(5, 3)",
+            83,
+            0.297
+          ],
+          [
+            "(5, 4)",
+            52,
+            0.186
+          ],
+          [
+            "(5, 2)",
+            28,
+            0.1
+          ]
+        ],
+        "p_top": 0.297,
+        "successor_entropy_bits": 3.505
+      },
+      {
+        "state": "(9, 0)",
+        "n": 31,
+        "top_successors": [
+          [
+            "(1, 0)",
+            9,
+            0.29
+          ],
+          [
+            "(3, 0)",
+            8,
+            0.258
+          ],
+          [
+            "(8, 0)",
+            3,
+            0.097
+          ]
+        ],
+        "p_top": 0.29,
+        "successor_entropy_bits": 2.913
+      },
+      {
+        "state": "(4, 1)",
+        "n": 14,
+        "top_successors": [
+          [
+            "(5, 3)",
+            4,
+            0.286
+          ],
+          [
+            "(1, 0)",
+            2,
+            0.143
+          ],
+          [
+            "(2, 1)",
+            2,
+            0.143
+          ]
+        ],
+        "p_top": 0.286,
+        "successor_entropy_bits": 2.95
+      }
+    ],
+    "most_uncertain": [
+      {
+        "state": "(1, 0)",
+        "n": 632,
+        "top_successors": [
+          [
+            "(1, 0)",
+            215,
+            0.34
+          ],
+          [
+            "(0, 0)",
+            64,
+            0.101
+          ],
+          [
+            "(5, 4)",
+            50,
+            0.079
+          ]
+        ],
+        "p_top": 0.34,
+        "successor_entropy_bits": 3.76
+      },
+      {
+        "state": "(5, 2)",
+        "n": 388,
+        "top_successors": [
+          [
+            "(5, 2)",
+            134,
+            0.345
+          ],
+          [
+            "(5, 3)",
+            32,
+            0.082
+          ],
+          [
+            "(5, 4)",
+            31,
+            0.08
+          ]
+        ],
+        "p_top": 0.345,
+        "successor_entropy_bits": 3.669
+      },
+      {
+        "state": "(3, 2)",
+        "n": 108,
+        "top_successors": [
+          [
+            "(5, 2)",
+            30,
+            0.278
+          ],
+          [
+            "(3, 2)",
+            16,
+            0.148
+          ],
+          [
+            "(5, 3)",
+            10,
+            0.093
+          ]
+        ],
+        "p_top": 0.278,
+        "successor_entropy_bits": 3.574
+      },
+      {
+        "state": "(2, 1)",
+        "n": 48,
+        "top_successors": [
+          [
+            "(5, 2)",
+            10,
+            0.208
+          ],
+          [
+            "(6, 0)",
+            8,
+            0.167
+          ],
+          [
+            "(1, 0)",
+            5,
+            0.104
+          ]
+        ],
+        "p_top": 0.208,
+        "successor_entropy_bits": 3.546
+      },
+      {
+        "state": "(6, 2)",
+        "n": 41,
+        "top_successors": [
+          [
+            "(6, 2)",
+            8,
+            0.195
+          ],
+          [
+            "(5, 2)",
+            6,
+            0.146
+          ],
+          [
+            "(3, 3)",
+            4,
+            0.098
+          ]
+        ],
+        "p_top": 0.195,
+        "successor_entropy_bits": 3.528
+      },
+      {
+        "state": "(5, 3)",
+        "n": 279,
+        "top_successors": [
+          [
+            "(5, 3)",
+            83,
+            0.297
+          ],
+          [
+            "(5, 4)",
+            52,
+            0.186
+          ],
+          [
+            "(5, 2)",
+            28,
+            0.1
+          ]
+        ],
+        "p_top": 0.297,
+        "successor_entropy_bits": 3.505
+      },
+      {
+        "state": "(2, 2)",
+        "n": 36,
+        "top_successors": [
+          [
+            "(1, 0)",
+            8,
+            0.222
+          ],
+          [
+            "(3, 0)",
+            5,
+            0.139
+          ],
+          [
+            "(5, 2)",
+            4,
+            0.111
+          ]
+        ],
+        "p_top": 0.222,
+        "successor_entropy_bits": 3.361
+      },
+      {
+        "state": "(3, 3)",
+        "n": 79,
+        "top_successors": [
+          [
+            "(5, 3)",
+            24,
+            0.304
+          ],
+          [
+            "(5, 2)",
+            13,
+            0.165
+          ],
+          [
+            "(3, 3)",
+            12,
+            0.152
+          ]
+        ],
+        "p_top": 0.304,
+        "successor_entropy_bits": 3.298
+      },
+      {
+        "state": "(13, 0)",
+        "n": 27,
+        "top_successors": [
+          [
+            "(8, 0)",
+            6,
+            0.222
+          ],
+          [
+            "(1, 0)",
+            4,
+            0.148
+          ],
+          [
+            "(13, 0)",
+            4,
+            0.148
+          ]
+        ],
+        "p_top": 0.222,
+        "successor_entropy_bits": 3.217
+      },
+      {
+        "state": "(3, 0)",
+        "n": 306,
+        "top_successors": [
+          [
+            "(1, 0)",
+            95,
+            0.31
+          ],
+          [
+            "(3, 0)",
+            85,
+            0.278
+          ],
+          [
+            "(5, 2)",
+            25,
+            0.082
+          ]
+        ],
+        "p_top": 0.31,
+        "successor_entropy_bits": 3.136
+      },
+      {
+        "state": "(11, 0)",
+        "n": 34,
+        "top_successors": [
+          [
+            "(8, 0)",
+            9,
+            0.265
+          ],
+          [
+            "(11, 0)",
+            7,
+            0.206
+          ],
+          [
+            "(1, 0)",
+            4,
+            0.118
+          ]
+        ],
+        "p_top": 0.265,
+        "successor_entropy_bits": 3.097
+      },
+      {
+        "state": "(2, 0)",
+        "n": 34,
+        "top_successors": [
+          [
+            "(3, 0)",
+            9,
+            0.265
+          ],
+          [
+            "(6, 0)",
+            7,
+            0.206
+          ],
+          [
+            "(1, 0)",
+            5,
+            0.147
+          ]
+        ],
+        "p_top": 0.265,
+        "successor_entropy_bits": 2.954
+      },
+      {
+        "state": "(3, 4)",
+        "n": 71,
+        "top_successors": [
+          [
+            "(3, 4)",
+            24,
+            0.338
+          ],
+          [
+            "(5, 4)",
+            18,
+            0.254
+          ],
+          [
+            "(4, 2)",
+            7,
+            0.099
+          ]
+        ],
+        "p_top": 0.338,
+        "successor_entropy_bits": 2.952
+      },
+      {
+        "state": "(4, 1)",
+        "n": 14,
+        "top_successors": [
+          [
+            "(5, 3)",
+            4,
+            0.286
+          ],
+          [
+            "(1, 0)",
+            2,
+            0.143
+          ],
+          [
+            "(2, 1)",
+            2,
+            0.143
+          ]
+        ],
+        "p_top": 0.286,
+        "successor_entropy_bits": 2.95
+      },
+      {
+        "state": "(9, 0)",
+        "n": 31,
+        "top_successors": [
+          [
+            "(1, 0)",
+            9,
+            0.29
+          ],
+          [
+            "(3, 0)",
+            8,
+            0.258
+          ],
+          [
+            "(8, 0)",
+            3,
+            0.097
+          ]
+        ],
+        "p_top": 0.29,
+        "successor_entropy_bits": 2.913
+      },
+      {
+        "state": "(0, 0)",
+        "n": 194,
+        "top_successors": [
+          [
+            "(1, 0)",
+            66,
+            0.34
+          ],
+          [
+            "(6, 0)",
+            35,
+            0.18
+          ],
+          [
+            "(0, 0)",
+            34,
+            0.175
+          ]
+        ],
+        "p_top": 0.34,
+        "successor_entropy_bits": 2.833
+      },
+      {
+        "state": "(5, 0)",
+        "n": 21,
+        "top_successors": [
+          [
+            "(6, 0)",
+            5,
+            0.238
+          ],
+          [
+            "(6, 1)",
+            4,
+            0.19
+          ],
+          [
+            "(0, 0)",
+            3,
+            0.143
+          ]
+        ],
+        "p_top": 0.238,
+        "successor_entropy_bits": 2.815
+      },
+      {
+        "state": "(2, 3)",
+        "n": 36,
+        "top_successors": [
+          [
+            "(1, 0)",
+            13,
+            0.361
+          ],
+          [
+            "(5, 4)",
+            5,
+            0.139
+          ],
+          [
+            "(3, 1)",
+            5,
+            0.139
+          ]
+        ],
+        "p_top": 0.361,
+        "successor_entropy_bits": 2.702
+      },
+      {
+        "state": "(4, 2)",
+        "n": 165,
+        "top_successors": [
+          [
+            "(5, 4)",
+            85,
+            0.515
+          ],
+          [
+            "(1, 0)",
+            17,
+            0.103
+          ],
+          [
+            "(4, 2)",
+            15,
+            0.091
+          ]
+        ],
+        "p_top": 0.515,
+        "successor_entropy_bits": 2.694
+      },
+      {
+        "state": "(15, 0)",
+        "n": 15,
+        "top_successors": [
+          [
+            "(11, 0)",
+            4,
+            0.267
+          ],
+          [
+            "(13, 0)",
+            3,
+            0.2
+          ],
+          [
+            "(6, 0)",
+            2,
+            0.133
+          ]
+        ],
+        "p_top": 0.267,
+        "successor_entropy_bits": 2.657
+      }
+    ]
+  },
+  "long_range_mi": {
+    "real": {
+      "1": 0.5361,
+      "2": 0.4984,
+      "3": 0.4175,
+      "4": 0.3517,
+      "5": 0.3285,
+      "6": 0.3073,
+      "7": 0.2791,
+      "8": 0.2907,
+      "9": 0.255,
+      "10": 0.2286,
+      "11": 0.2204,
+      "12": 0.2104,
+      "13": 0.2021,
+      "14": 0.1902,
+      "15": 0.1712,
+      "16": 0.1818,
+      "17": 0.1678,
+      "18": 0.1521,
+      "19": 0.1511,
+      "20": 0.1359,
+      "21": 0.1308,
+      "22": 0.1301,
+      "23": 0.131,
+      "24": 0.1225,
+      "25": 0.1298,
+      "26": 0.1319,
+      "27": 0.113,
+      "28": 0.1147,
+      "29": 0.1067,
+      "30": 0.1041
+    },
+    "markov1_simulated_mean": {
+      "1": 0.5801,
+      "2": 0.2126,
+      "3": 0.1068,
+      "4": 0.0686,
+      "5": 0.054,
+      "6": 0.0513,
+      "7": 0.0471,
+      "8": 0.0474,
+      "9": 0.0506,
+      "10": 0.0508,
+      "11": 0.054,
+      "12": 0.0519,
+      "13": 0.0525,
+      "14": 0.0575,
+      "15": 0.0567,
+      "16": 0.0583,
+      "17": 0.0586,
+      "18": 0.0617,
+      "19": 0.0661,
+      "20": 0.0646,
+      "21": 0.0676,
+      "22": 0.0668,
+      "23": 0.0689,
+      "24": 0.0669,
+      "25": 0.0721,
+      "26": 0.0708,
+      "27": 0.0809,
+      "28": 0.0755,
+      "29": 0.0776,
+      "30": 0.0768
+    },
+    "markov1_simulated_std": {
+      "1": 0.0226,
+      "2": 0.0207,
+      "3": 0.0143,
+      "4": 0.0101,
+      "5": 0.0083,
+      "6": 0.0021,
+      "7": 0.0018,
+      "8": 0.0037,
+      "9": 0.0035,
+      "10": 0.0046,
+      "11": 0.006,
+      "12": 0.0044,
+      "13": 0.0021,
+      "14": 0.0071,
+      "15": 0.0035,
+      "16": 0.0062,
+      "17": 0.0081,
+      "18": 0.0039,
+      "19": 0.001,
+      "20": 0.004,
+      "21": 0.0062,
+      "22": 0.0056,
+      "23": 0.0053,
+      "24": 0.0056,
+      "25": 0.0064,
+      "26": 0.0067,
+      "27": 0.009,
+      "28": 0.0038,
+      "29": 0.0047,
+      "30": 0.0086
+    },
+    "excess_over_markov1": {
+      "1": -0.0441,
+      "2": 0.2857,
+      "3": 0.3106,
+      "4": 0.2831,
+      "5": 0.2745,
+      "6": 0.256,
+      "7": 0.232,
+      "8": 0.2433,
+      "9": 0.2044,
+      "10": 0.1778,
+      "11": 0.1665,
+      "12": 0.1586,
+      "13": 0.1496,
+      "14": 0.1326,
+      "15": 0.1145,
+      "16": 0.1235,
+      "17": 0.1093,
+      "18": 0.0904,
+      "19": 0.085,
+      "20": 0.0713,
+      "21": 0.0632,
+      "22": 0.0633,
+      "23": 0.0621,
+      "24": 0.0557,
+      "25": 0.0577,
+      "26": 0.0612,
+      "27": 0.0321,
+      "28": 0.0392,
+      "29": 0.0291,
+      "30": 0.0272
+    }
+  }
+}

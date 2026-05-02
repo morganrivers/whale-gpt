@@ -26,3 +26,22 @@ The development of this model can be reproduced in the following steps, using Ma
 7. `sequifier preprocess`
 8. `sequifier train`
 9. `sequifier infer`
+
+## Grammar / structure analysis (beyond Sharma et al. 2024)
+
+A separate analysis pipeline lives under `scripts/2_build_corpus.py` →
+`scripts/3_grammar_analysis.py` → `scripts/4_compression_test.py` →
+`scripts/5_discover_phrases.py`. It builds a compact human-readable
+token corpus at `data/whale_corpus.txt` and runs compression / mutual-
+information / phrase-discovery experiments. Results and a written
+write-up land in `outputs/grammar/`; the synthesis is in
+[`outputs/grammar/FINDINGS.md`](outputs/grammar/FINDINGS.md).
+
+Headline: a 1st-order Markov chain with the same transition matrix as
+the data loses essentially all rhythm mutual-information after lag 2,
+yet the real corpus retains 0.16 bits at lag 12 — direct evidence of
+multi-coda grammar that Sharma et al. left as an open question. The
+corpus also compresses ~26 % smaller with bz2 than a token-shuffled
+control, contains near-deterministic 4-coda "words" (e.g. `i1 d1 b1 b1`,
+P=0.93), and exhibits duality-of-patterning signatures (rhythm bigrams
+realised across many tempo profiles and vice-versa).

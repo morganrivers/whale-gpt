@@ -1,0 +1,11 @@
+=== Universal compressors on whale_corpus.txt ===
+  gzip    real=   8553 bytes  ( 21.6% of raw)  line_shuffle=   9443  token_shuffle=  11475  savings_vs_token_shuffle=+25.47%
+  bz2     real=   6405 bytes  ( 16.2% of raw)  line_shuffle=   6823  token_shuffle=   8611  savings_vs_token_shuffle=+25.62%
+  lzma    real=   7548 bytes  ( 19.1% of raw)  line_shuffle=   8653  token_shuffle=  10634  savings_vs_token_shuffle=+29.02%
+
+=== Held-out Markov cross-entropy (bits/token) ===
+  Token          H0=6.115  H1=5.568  H2=6.127  H1_shuffled=6.253  H1_gain_vs_shuffle=0.685  H0_minus_H1=0.547
+  Rhythm         H0=2.777  H1=2.296  H2=2.188  H1_shuffled=2.590  H1_gain_vs_shuffle=0.294  H0_minus_H1=0.481
+  Tempo          H0=2.046  H1=1.522  H2=1.376  H1_shuffled=1.839  H1_gain_vs_shuffle=0.318  H0_minus_H1=0.524
+  Rubato         H0=1.720  H1=1.707  H2=1.690  H1_shuffled=1.722  H1_gain_vs_shuffle=0.015  H0_minus_H1=0.013
+  Ornamentation  H0=0.568  H1=0.570  H2=0.568  H1_shuffled=0.574  H1_gain_vs_shuffle=0.004  H0_minus_H1=-0.002

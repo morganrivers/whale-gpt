@@ -1,0 +1,2733 @@
+SEQ 0
+W1 i1.? i1.= b1.? b1*/ i1.? i1.= d1.? b1.? b1*/ f3.? f3.\ f3.= f3.= b2.? a1.?
+CHO 1,2 f3.? d3.?
+CHO 1,2 d3./ f3*=
+CHO 1,2 d4.? f3./
+W2 d4./
+CHO 2 d5.?
+W1 f4.?
+CHO 1,2 f4.\ d4.?
+CHO 1,2 d4.\ f4.=
+CHO 1,2 d4.= f4*\
+W2 d4.=
+CHO 1,2 d4./ f4./
+CHO 1,2 d4.= f4.=
+CHO 1,2 d4./ f4.=
+CHO 1,2 d4*\ e3.?
+CHO 1,2 d4.\ f4.?
+W2 d4./ d4.\
+CHO 2 d4*=
+W1 i1.? i1.= d1.? b1.? b1./
+CHO 1,2 l1.? d4.= i1.?
+W1 d1.? b1.? b1*/
+PAUSE 25.8s
+CHO 2 d3.?
+CHO 1,2 i1.? d4.? i1.=
+W1 b1.? b1./
+CHO 1 b1./
+CHO 1,2 d3.? i1.?
+W1 i1.\ b1.? b1./ b1*/
+CHO 1,2 q1.? d3.= d1.?
+W1 b1.? b1*/ i1.?
+CHO 1,2 i1.= d3.= d1.?
+W1 b1*? d1.? d1./ d1.= d1.= b1.? b1*/ i1.? i1.= d1.? b1.? b1*/
+W2 e1.?
+CHO 1,2 d1.? f3.? d1.=
+W2 d1.= d1.= d1./
+CHO 2 a1.?
+W1 f3.= f3*=
+
+SEQ 1
+W1 e3*?
+CHO 1 f4.?
+CHO 1,2 d3.? f4.\
+CHO 1,2 d3.= f3.?
+W2 d3./
+CHO 1,2 d3./ f4.?
+CHO 1,2 d3.= f4.=
+CHO 1,2 d4.? f4.=
+CHO 1,2 d4.= c3.? b1.?
+W2 d4.= d5.?
+CHO 2 d5.=
+W1 f5.?
+CHO 1 f5.=
+CHO 1,2 b3.? f5.\
+W2 b1.? b1*/ b1.\ b1./
+CHO 1,2 d4.? f4.?
+CHO 1,2 f4.= d4.\
+CHO 1,2 a3.? d3.?
+W1 b1.? b1*/
+CHO 2 d3*=
+W1 q1.? d1.? b1.?
+CHO 1 b1./
+CHO 2 d3.=
+W1 i1.? i1.= d1.? b1.? b1*/
+CHO 2 d4.?
+W1 j1.? i1.? d1.? b1.? b1./
+CHO 1,2 j1.? d4.\ j1.=
+W1 j1./ b1*?
+CHO 2 d3.?
+W1 f3.?
+CHO 1 f3*=
+CHO 1,2 n1.? f3.\ n1./
+W2 d1*?
+W1 f3./ f3.= f3.=
+
+SEQ 2
+CHO 2 a1.?
+W1 g1*?
+CHO 1,2 a1.\ b1.? b1.\
+CHO 2 a1.=
+W1 a1.? b1*?
+CHO 1,2 g1.? a1.\
+CHO 1,2 a1.= g1./
+CHO 2 a1.=
+W1 c1*? g1.? f1.? g1.? g1*/ g1.\ c1*?
+
+SEQ 3
+W2 l1.? l1.=
+PAUSE 10.2s
+W2 l1*\
+
+SEQ 4
+W2 l1.? b1.?
+
+SEQ 5
+W1 b1.? a1.? b1.? b1.= i1.? b1.? g1.?
+CHO 1 g1./
+CHO 1,2 a1*? g1.\
+W2 a1.=
+CHO 2 a1.=
+CHO 1,2 g1./ a1.\
+CHO 1,2 g1.= a1./
+CHO 1 g1.=
+CHO 1,2 b2.? g1.=
+CHO 1,2 d3.? g1*=
+CHO 1,2 g1.\ d3./
+CHO 1,2 g1./ d3.\
+W1 a1.?
+CHO 1,2 b1.? d3.=
+CHO 1,2 g1.? d3*\
+CHO 1 g1.\
+W2 d3.=
+
+SEQ 6
+W1 g1.?
+CHO 1,2 g1./ a1*?
+CHO 1,2 c1.? a1*=
+W1 g1.?
+
+SEQ 7
+W2 d3.? b1.?
+
+SEQ 8
+W2 f3.? a1.? b1.?
+CHO 2 g3.?
+CHO 3 g3.?
+W2 g3.\ a1.? b1*? d3.? d3.\
+CHO 2 g4.?
+W3 d3*?
+CHO 2 g3.?
+CHO 3 f3.?
+PAUSE 10.9s
+CHO 2 g3.\
+W3 g3*?
+CHO 1,2,3 g3./ a1.? f3.? a1*/
+CHO 1,2 f4*? c2*?
+CHO 1,2 g2.? c3.?
+W1 e2*? b2.?
+CHO 1 b1.?
+W2 b2.?
+CHO 2 b1.?
+W1 f3.?
+CHO 1 f4.?
+CHO 1,5 f3.? f4./
+CHO 1,6 f4.? f5.?
+CHO 1 f5*=
+CHO 1,9 c2.? f5./
+W1 b3.?
+
+SEQ 9
+CHO 1,2 f5.? c4*?
+CHO 1,2 f5*\ e3*?
+CHO 1,2 e3.? f5.?
+CHO 1,2 f5*? e3*?
+W2 e3*? e3.= d3.? b1.? f4.? c3*? e3.? f4.?
+CHO 2 f5*?
+W1 e3.= f5.?
+CHO 1 f5./
+W2 c4*?
+CHO 1 f5*\
+CHO 2 e3.?
+W1 e3.?
+CHO 1 b1.?
+W2 f5.?
+PAUSE 11.2s
+W2 c4.? b1*?
+CHO 1,2 a3.? e3.?
+W1 a1.?
+CHO 1,2 b1.? d1*? d1*/
+W1 a3.? b1.?
+CHO 1 b1./
+W2 e3.?
+CHO 2 b1.?
+CHO 1,2 c4.? f4.? d1.?
+W1 b1.?
+
+SEQ 10
+CHO 2,3 d5*? e3.?
+W3 d5.\ d5.=
+CHO 3 d5.=
+W2 c4.?
+CHO 2 b1.?
+W3 d5.= d4.? d4.\
+CHO 3 d3*?
+PAUSE 12.3s
+W2 e2*?
+CHO 2 b1.?
+W3 d4.? d4.\ d4.\
+CHO 1,3 d3.? f4.?
+CHO 3 d3.\
+CHO 1,3 f4.= d3.=
+W1 f4.=
+CHO 1 f3.?
+W3 d5.?
+PAUSE 12.5s
+CHO 3 d5*=
+PAUSE 69.2s
+W2 q3.? d1*?
+W1 f4.?
+CHO 1 f4*=
+PAUSE 11.5s
+W4 i1.?
+CHO 3,4 i1.= g3.? d1.?
+W4 b1.?
+CHO 2,4 b1./ g3.?
+CHO 1,5 d4.? f4./
+CHO 2,3 k1.? b2.?
+W2 b1.?
+CHO 2,3 d3.? f3.?
+CHO 4 d3*?
+W1 i1.? i1.= b1.? b1*/ l1.?
+CHO 1,2 i1.? d2.? d1.?
+W1 b1.? d1.? d1.= d1.= d1.= b1.? b1./ b1./ d1.? d1./ d1.= d1.= d1./ b1.? b1./ d1.? d1./ d1.\ d1.= d1./ b1.? b1./ l1.? i1.? d1.? b1.? b1*/ l1.? j1.? d1.? b1.?
+CHO 1,2,3 b1./ d3.? d3.?
+CHO 1,2,3 f3.? d3.= d3.=
+W1 d3.?
+CHO 1,2 b1.? d3./
+CHO 1,2 g3.? d3*=
+CHO 1 c2.?
+CHO 1,2 d3*/ c2.\
+CHO 2 d3./
+W1 d3*?
+CHO 1 g3.?
+CHO 2 d4*?
+W1 c2*? c2.=
+CHO 1 f3.?
+CHO 1,2,3 d4.= d3./ f3./
+CHO 2 d3.?
+CHO 1 f3./
+W2 d3.=
+CHO 1,2 d3.= f3*=
+CHO 3 c3.?
+W2 d3*=
+W1 f3.=
+
+SEQ 11
+W1 p1*?
+W2 n1.?
+CHO 1,2 p1.? g1.?
+CHO 2 a1.?
+CHO 1 g1.=
+CHO 1,2 a1./ g1./
+CHO 2 a1*=
+W1 c2.?
+CHO 1,2 f3.? a1.\
+CHO 1,2 f3.= a1.=
+W1 f3*=
+CHO 1,2 c2.? a1*=
+CHO 1,2 a1.= c2.=
+W2 a1.= a1.=
+CHO 2 a1./
+CHO 1,2 d1.? a1.\ b1.?
+CHO 2 a1.=
+W1 f1.? g1.? g1.= b1.? b1.\ g1.? g1.=
+
+SEQ 12
+W1 g1.? g1.= g1.= g1.=
+
+SEQ 13
+W1 n1.? b1.?
+PAUSE 10.6s
+W1 b1.\ b1./ b1.= b1./
+
+SEQ 14
+W2 f5.? f5.\ f5.=
+CHO 2 f4.?
+W1 f5.?
+CHO 1,2 f5./ a2.?
+CHO 1,2 f5*\ e3.?
+W1 f5.=
+CHO 1,2 f5./ f5.?
+CHO 1,2 f5.\ f5.=
+CHO 1,2 f5.\ f4.?
+W1 f5.\
+CHO 1,2 f5./ f4*=
+CHO 1,2 f4.\ e3.?
+CHO 2 f4*=
+W1 e3.= c3.? b1*? e3*? e3*= e3.= f5*?
+CHO 1,2 i4.? d5.?
+W1 b1*?
+CHO 1,2 d4.? f3.?
+W2 d5.? d5./ d5.= d5./ d5./ d5./
+
+SEQ 15
+CHO 2 d5.?
+W1 f5.?
+CHO 1,2 f5.\ d5.\
+CHO 1,2 f5.\ d5.=
+CHO 1,2 f5.= d5./
+CHO 1,2 f5.= d5.=
+CHO 1,2 f5.= d5*\
+CHO 1,2 d5./ e3.?
+W1 f5.?
+
+SEQ 16
+W2 d5.?
+
+SEQ 17
+W2 f5*?
+CHO 1,2 c5.? c3.? b1*? b1.?
+W1 a3.? b1.? b1*/
+W2 c4.? d2*?
+W1 i1.? i1.\ d1.? b1.? b1./ b1./ i1.? i1.= d1.? b1.? b1./ b1./
+
+SEQ 18
+CHO 2,3 f3.? f5.?
+CHO 1,2 f4.? f4.?
+CHO 1,2,3 f5.= d3.? b3*?
+CHO 1,2 b1.? f3.?
+CHO 1 f4.?
+W2 f4.? f4./
+CHO 2 f4./
+W1 a3.? b1.? b1./
+CHO 1 b1*/
+CHO 1,3 e2.? f4.?
+CHO 3 f4.?
+CHO 1,2 f5.? f4.\
+CHO 1,2,3 f3.? f3.? f4.?
+CHO 3 f3.=
+CHO 1,2,3 f4.\ f3.\ f3./
+CHO 1,2,3 f4.= b2.? b1.? g3.?
+CHO 1,2 f4.= f3*?
+W3 m1.?
+CHO 1,3 i1.? f4.=
+CHO 1,2 f4.? f4.=
+W3 c3*?
+CHO 1,2 f4./ f4.\
+CHO 1,2,3 f3.? f4.= f4./
+CHO 1,2 f4.= f4.\
+CHO 1,2 f4.\ f4.=
+CHO 1,2 f4.= f4*=
+CHO 1,2 f4./ e2*?
+CHO 2,3 f4./ f5.?
+CHO 3 f5./
+CHO 2,3 f4./ f4*?
+CHO 2,3,4 f4.= f4.\ f5.?
+CHO 1,2 f5.? b3.?
+W1 b1*?
+W3 a3.? b1.?
+CHO 3,4 b1./ d4*?
+W1 e2*?
+CHO 2,3,4 f4.? f4.? d4.\
+CHO 2,5 f3.? f3.?
+W6 a2.?
+CHO 1,2,6 b1*? q1.? f3./ b1.?
+W1 b1*/ i1.? i1.= d1.? b1*? i1.? i1./ d1.? b1.? b1*/
+CHO 1,4 d1.? d3.?
+W1 i1.? i1.= d1.? b1.?
+CHO 1,2,4 b1./ d3.\ f3.\
+W1 i1.? i1.= d1.? b1.?
+CHO 1,2,4 b1./ d3.= f3*=
+W1 i1.? i1.= d1.? b1.?
+CHO 1,4 b1./ d3*=
+W1 i1.? i1.= b1.?
+CHO 1,3,4 b1./ f3.? b1./ d3.=
+W1 i1.? i1.= d1.? b1.? b1*/
+CHO 1,4 d3.= f3.?
+CHO 2,4 f3*\ d3.=
+CHO 1,2,3,4 f3./ f3.\ d3.= f3./
+CHO 1,2,3 d3.? f3.= f3*\
+CHO 1,2,4 f3.? d3.= f3.=
+CHO 2,4 d3.= f3.=
+CHO 2,4 f3.\ d3.=
+CHO 2,4 f3./ d3./
+CHO 2,3 g2.? d3.?
+CHO 2 g2.\
+W3 d3./
+
+SEQ 19
+W2 d1.? f3.? f3.= b2.?
+CHO 2 b1.?
+W3 b1.? g2.? d1.?
+
+SEQ 20
+W2 f3.? c3*?
+
+SEQ 21
+CHO 1 g1.?
+CHO 2 g2.?
+CHO 1 f3.?
+CHO 1,2 f3.? b2.?
+W1 b1.?
+CHO 1,2 f3.? f3.=
+CHO 1,2 f3./ f3.=
+CHO 1 f3./
+W2 f3./
+CHO 2 f3.\
+CHO 1,2 f3./ f4.?
+CHO 1,2 f5.? f4.?
+CHO 1,2 f5./ f4.=
+W2 f5.=
+CHO 1,2 f5.= f4./
+CHO 1,2 f5.= f4.=
+CHO 1,2 f5.= f4.=
+CHO 1,2 f5.= f4./
+CHO 1,2 f5.= f4./
+CHO 1,2 f5.= f4*=
+CHO 1,2 e3.? f4.=
+CHO 2 f5.?
+W1 f4.= f4.= f4.= f4.= f4.= f4./ f4.\
+CHO 1 f4.=
+W3 b1*? b1*/
+W4 f3.? g3.?
+CHO 4 f3.?
+CHO 3 f5.?
+CHO 4 f3.=
+CHO 3 f4.?
+CHO 4 f3.\
+CHO 1,2,3 f3.? f4.= f5.?
+CHO 1,2,3 f4.? c4*? c2.?
+CHO 1,2,3 f4*? e3.? f3.?
+CHO 1,2,3 f4*= e3.\ f3.=
+CHO 1,2 f4*= e2.?
+CHO 1,2 f5*? e3.?
+W1 f4.?
+CHO 1 f4./
+CHO 2,3,4 d4.? f3./ d3.?
+CHO 1,3 f3./ f3.?
+W2 d3.?
+CHO 1,2,3 b2.? d3.? a1.? f3.\
+W2 b2.? b1*?
+CHO 1,3 f3.= d3./
+CHO 1,2,3 f3.? f3.= d3.=
+CHO 1,2,3 f3./ f3.= d3.\
+CHO 1,2,3 f3.= f3.= d3.=
+CHO 1,2 f3.= f3*/
+CHO 1,2 b2.? c2*?
+CHO 1,2 f3.? f4.?
+CHO 1,2 f3.= f4./
+CHO 2,3 d4.? g3*?
+CHO 3 d4.=
+W1 a1.? b1*?
+CHO 2 f3.?
+CHO 1,2,3 f3.? d4.? f3.?
+CHO 1,2 f3./ d4.\
+CHO 1,2 f3.= d4.=
+W2 d4.=
+CHO 2,3 d4./ f3.=
+CHO 2 d4.=
+W3 b1.? a1.?
+CHO 3 g1.?
+W2 b2.? b1.?
+PAUSE 17.3s
+W2 f5.? f3.?
+CHO 2 d3.?
+W3 b2.? b1*? c2.? b1.?
+CHO 3 b1.\
+PAUSE 18.1s
+W2 f5.?
+CHO 2,3 f4.? f3.?
+CHO 2,3 d5.? f3./
+CHO 2,3,4 f4.? d5.\ c2.?
+CHO 2,4 f5.? d4.?
+CHO 2,3 e3.? d4*\
+CHO 2,3 d3.? f4.? d3*\
+CHO 2,4 b1.? d3.\
+CHO 3,4 d3.? f4*?
+CHO 2,3 d3./ c2.?
+CHO 3,4 f4.? d3.?
+CHO 2,3 b2.? f3.? a1.?
+W2 f3.?
+CHO 2,3,4 f3.= d1.? d4.?
+CHO 2 f3./
+CHO 3 d4.?
+W2 f3.=
+CHO 2,3 d4.? f5.?
+CHO 2,3 d5.? f5./
+CHO 2,3 d5./ f5.=
+CHO 2 f5*?
+CHO 2,3 e3.? f5.\
+CHO 3 f4.?
+CHO 2 f3.?
+CHO 3 d5.?
+W2 f3./ b2.? b1.?
+CHO 2,3 f3.? d5.\
+W2 b2.?
+CHO 2 b1.?
+W3 d5.= d5*=
+PAUSE 14.0s
+CHO 3 e3*?
+PAUSE 24.0s
+W2 c2.? f3*? c3.? b2.? a1.? b2.? b1.? f3.? f3./ b2.? b1.? f3.?
+CHO 1,2 f3.\ f5.?
+CHO 2 f3*/
+W1 e3.?
+CHO 1 f4*?
+PAUSE 19.9s
+W2 g1.? g1*\ g1./ g1.\ g2.? d1.? f3.? f3./
+CHO 2 f3.\
+CHO 3 f5.?
+W2 f3./ f5.?
+CHO 2,3 f5./ f5.\
+CHO 2,3 f5.= f4.?
+PAUSE 14.8s
+W2 f5.\
+CHO 2 f5./
+PAUSE 17.8s
+CHO 1 f5.?
+W2 f5.=
+CHO 2 f4.?
+W1 f5.\ f5.=
+CHO 1 f5*\
+W2 e3.?
+CHO 1,2 b3*? e3.? b1.?
+CHO 1,2 b3*? e3.? b1*?
+CHO 1,2 f5.? e3.=
+CHO 1,2 b3*? e3.= b1.?
+CHO 1,2 c3*? e3.\
+W1 b1*?
+CHO 1,2 e3.? e3./
+CHO 1,2 a3*? b1.? e3.=
+CHO 1,2 b3*? e2.? b1.?
+CHO 1,2 b3*? e3.? b1.?
+PAUSE 10.7s
+CHO 2 f5.?
+PAUSE 10.2s
+W1 b3*?
+W2 e3.?
+PAUSE 12.2s
+W2 f5*?
+CHO 1,2,3 e3.? f5*? e3.?
+CHO 2,3 f4.? f5.\
+CHO 1,4 f5.? f3.?
+CHO 1,2,3 f4*= b3.? e3.? b1.?
+CHO 2,3 f4*\ e3.?
+CHO 1,2,3 f5*? f4.= e2.?
+W2 g4.? f3.? f3.\ f4.? a3.? b1.? b1./
+PAUSE 16.6s
+W2 f5.? a3.? a1.? f3.? f3.\
+PAUSE 39.5s
+W2 c3.? d1.? c3.? b1.?
+PAUSE 11.3s
+W2 f4.? f3.? f3.\
+PAUSE 405.1s
+W2 f3.\
+CHO 1,2 f3.= f3.?
+CHO 1,2 f3.= f3*=
+CHO 1,2 f3./ c2.?
+CHO 1,2 f3.\ f3.?
+CHO 1,2 f3.= f3.=
+CHO 1,2 f3.= f3.=
+CHO 1 f3.=
+W2 g2.?
+CHO 1,2 f5.? f4.?
+CHO 1,2 f5.\ f4.\
+CHO 1,2 f5.= f4./
+CHO 1,2 f5./ f4.=
+CHO 1,2 f5*\ e3.?
+CHO 1,2 f5*\ e3./
+CHO 1,2 f5.= f5.?
+CHO 1,2 f5./ f5.=
+CHO 1,2 f5*/ e3.?
+CHO 1,2 f5*= e3.=
+CHO 1,2 f5*= e3./
+CHO 1,2 f5*= e3./
+CHO 1,2 f5*\ e3.=
+CHO 2 f5*=
+W1 e3.\ b3.?
+CHO 1 b1.?
+CHO 1,2 f5*/ e3.?
+W2 f5.= f5.\ f5.\ f5.=
+CHO 2 f5*=
+W1 e3*\
+CHO 3 g2.?
+W2 f5.\
+CHO 1,2 f5*/ e3.=
+CHO 1,2,3 f5.\ c4.? b1.? b1.\ b1.?
+CHO 2,3 g2.? f5*=
+CHO 1,2,3 e3.? f3.? f5*/
+CHO 1,3 e3.= f3.\
+PAUSE 11.5s
+W2 f4.? c3.? b1.? c2*? b1.? f3.? f3.= f3./
+PAUSE 10.1s
+W2 c3.? b1.? c3.? d1.? c3.? d1*? e3.? d1.? b1.? f3*? f3*\ f3*/ e2*?
+CHO 2 c2.?
+PAUSE 37.8s
+W1 f5.?
+CHO 1,2 f5.\ d4.?
+CHO 1,2 f4.? d4.\
+CHO 1,2 d4.\ f4.\
+CHO 1,2,3 d3.? f3.? f5.? d3.\ i3*?
+CHO 1,2,3 e3.? d3.\ f3*?
+CHO 2,3 e3./ d3.=
+CHO 1,2 f3./ d3*/
+PAUSE 189.6s
+W1 i1.?
+CHO 1,2 i1.\ d4.? d1.?
+W1 b1.? b1*/ m1.? d1.?
+CHO 1,2 b1.? d3.? b1./
+W1 b1./ d1.? d1.= d1.= d1.= b1.? b1*/ f3.?
+CHO 1,2 f3.\ d3.=
+CHO 2 d3.\
+CHO 1 f5.?
+W2 d4.?
+CHO 1,2 d4.= f4.?
+PAUSE 48.4s
+CHO 2 g3.?
+W3 g1.? d1*?
+W2 b1.?
+CHO 2,3 a1.? f3.?
+CHO 2 g3.?
+W3 d3*?
+CHO 2,3 c2.? b2.? a1.?
+CHO 2 g3.?
+W3 b2.? b1.? i1.? i1*= b1.? b2.?
+CHO 2,3 a1.? f3.?
+CHO 2,3 b2.? g3.? b1*? d1.? a1*?
+W2 d3*?
+CHO 3 c2.?
+W2 b1.? b1.\
+CHO 2,3 g3.? g3.?
+CHO 2,3 g3.= g3.=
+CHO 1 f4.\
+CHO 2 f3.?
+CHO 1 f4./
+W2 g3.? b2.? b1.? f3.?
+CHO 2 g1.?
+CHO 3 g1.?
+W2 b1*?
+CHO 2,3 g1.= d1.?
+W2 d1*=
+W4 f3.\ f3*\
+CHO 4 c2.?
+CHO 2 f3.?
+CHO 1,2,5 f3.? d1.? f3.\
+CHO 1,3,4 f3.= f4.? f3.?
+CHO 1,3 f3.\ f3.?
+CHO 1,2 f3./ f3*=
+CHO 1,3 f3.= e3.?
+CHO 1,3 f3*/ e3.=
+CHO 1,2 f3./ f3.\
+CHO 1,2 f3.= f4.?
+CHO 1 f3.=
+W2 f4./ f4.=
+CHO 2 f5*?
+W1 e3*?
+CHO 1,2 f5./ f4.?
+CHO 1,2 d5.? f4.\
+CHO 1,2 f5.? f4.=
+W2 f5./ f5.= f5.= f5.=
+CHO 2 f5./
+CHO 1,2,4 f5.? g1.? f5*?
+CHO 2,3,4 d1.? g1.= f5./
+CHO 1 f5.\
+CHO 1,2,4 b2.? f5.\ a1.? f5./
+CHO 1,2,4 f3.? f5.? f5.=
+CHO 2,3 d3.? f5*?
+W4 d3*?
+CHO 2,3,4 g3.? f5.= g3.?
+CHO 2 f5.?
+W1 b3.?
+CHO 1,2,3 b1.? f3.? f5./
+CHO 1,3 f5.? d4.?
+CHO 1,2,4 f3./ f5.? f5.=
+CHO 2,3 d4.\ f3.=
+CHO 1 f5.=
+CHO 2 f3.=
+CHO 1 f5.=
+CHO 2 f3.=
+W1 f5.\
+CHO 1 f4.?
+CHO 1,2,3 d3.? d3.? f4.= b1.?
+CHO 1,2 f5.? f4.=
+CHO 1,2 f5.= f4.=
+W2 f5*\ e3.? g3.? b2.? a1.?
+CHO 2 f4.?
+CHO 1 f5.?
+CHO 1,2 f4.= f5.=
+CHO 1,2 f5.? f5.=
+W1 f5.\
+CHO 1,2 f5*\ e3.?
+CHO 1 f5*/
+W2 e2.? f4.? c1*? f3.? f3*\
+CHO 3 f5.?
+W2 f3./ f3./ f3.\ f5.? f5.= f4.? f4*= c2.? c3*?
+CHO 3 f4.?
+W2 c3*/
+CHO 3 f4*\
+W2 e2.?
+CHO 2,3 a3.? f4.=
+W2 b1*?
+CHO 2,3 e3.? f4./
+W2 f5.? c4*? f4.? f4*/ c2.? f4.? f5.? f3*?
+PAUSE 10.6s
+W2 b3.? f3.? d1.? d1*/ b1.? i1.? i1.\ i1.= b1*? n1.? d1.? b1*? n1.? n1*/ c1.? b1.? b1.= b1.= b1*/ b1.= b1.= a1.? b1*? g1.? b1.? b1.= b1.= b1.= b1.= b1.= b1.= n1.? i1.? i1.= j1.? d1.? b1*? d1.? d1./ d1.= d1./ b1*? g1.? g1.\ g1.= d1.? d1.= b1.? i1.? i1*= g3.? b1.? a2.? b1.? n1.? a1.? a1*/ g3.? f3.? f3.\ b2.? b1.? i1.? j1*? g1.? g1.\ g1./ g1./ a1*? b1.? a1*? f3*? e1.? d1.? a1*? b1.? a1*? c2.? p1.? l1.? l1./ g3.? n1.?
+PAUSE 12.0s
+W2 g1.? d1*? b1*? b1./ b1./ b1.\ f3*?
+PAUSE 11.2s
+CHO 2 c3.?
+CHO 3 f5.?
+CHO 2 f4.?
+W3 b2.?
+CHO 3 b1.?
+W2 c2.? f5.?
+CHO 2,3 f4.? g3.?
+CHO 2 d2.?
+CHO 3 f3.?
+CHO 2,3 f3.? d1.?
+CHO 2 f3.\
+CHO 2,3,4 d5.? f3./ f3.?
+CHO 3 f5.?
+W2 f3*\ c2.?
+CHO 2 d5.?
+PAUSE 29.9s
+W3 d5.?
+CHO 3 d5.\
+W2 c4.?
+CHO 2 f4.?
+CHO 2,3 d4.? f4.\
+CHO 2,3 d4./ f4.=
+CHO 2,3 d4.= f4./
+CHO 2,3 d4.= f4.=
+CHO 2,3 d4.\ f4.=
+CHO 2,3 d4.= f4.=
+CHO 2,3 f4.= d4.=
+W2 f4*=
+CHO 3 d4.\
+CHO 2,3,4 f4.= d3.? f5*?
+W3 e2*? e2*\ c2.? e3.?
+CHO 3 b1.?
+PAUSE 23.7s
+CHO 2 d5*?
+CHO 2,3 d5.\ e3.?
+CHO 2,3 d5.= b3.? b1.?
+W2 d5.= d5.\
+CHO 2,3 d5./ f5.?
+CHO 2,3 f5./ d5.\
+CHO 2,3 f5.= d5.=
+W3 f5.=
+CHO 3 f5.\
+W2 d5./ d5.\
+PAUSE 15.6s
+W2 f5.?
+CHO 2 f5.\
+W3 c4.? b1*?
+CHO 2 f5.\
+W3 e3.?
+CHO 3 d2.?
+CHO 2 f5.\
+CHO 2,3 c4.? c4.? d1.? d2.? b1.?
+CHO 2 d5.?
+CHO 2,3 n1.? d4.? i1.?
+W3 j1*? b1*? i1.? i1.\ j1.? b1.?
+CHO 3 b1./
+W2 d5.?
+CHO 2 d4.?
+CHO 2,3 f4.? d3.?
+CHO 3 f3.?
+CHO 1,2 f3*? c2.?
+CHO 2 f3*=
+W1 g2.?
+CHO 1 f3.?
+CHO 1,2,3 f3./ f3.= f3.\
+CHO 1,2,3 f3.= f3.\ f3.\
+CHO 1,2,3 f4.? b2.? f3./ b1.?
+CHO 1,2,3 f3.? d3.? f3*/
+W4 d1*?
+CHO 1,2,3,4 d3.= f4.? f3*= d1*\
+PAUSE 763.4s
+W3 g1.? g1./
+CHO 3 f1.?
+W2 g1*?
+CHO 2,3 f1.? d1.? f1*/
+CHO 1,3 d1.\ c2*?
+W1 c2.\ b2.? a1.?
+CHO 1 f3.?
+W3 a1.? a1.\
+CHO 1,3 b1.? f3.= b1.\
+CHO 1,3 f3.= g1.?
+W3 g1.\
+CHO 3 g1./
+CHO 2,3 g1.? g1.\
+CHO 3 g1.=
+W2 c1*?
+CHO 2,3 g1.= b1.?
+W2 b1*\
+CHO 3 f1.?
+W2 g1*? d1.?
+CHO 2 f1.?
+CHO 3 g1.?
+W2 a1.?
+CHO 2 b1.?
+PAUSE 10.6s
+W4 g1*?
+PAUSE 10.8s
+W5 g1.?
+PAUSE 11.3s
+W5 q1.? b1*? o1.? b1.? i1.? d1*?
+PAUSE 10.7s
+W5 i1.?
+CHO 5 d1.?
+PAUSE 23.1s
+W2 g1.?
+PAUSE 2501.6s
+W2 c5.? b1.? c4.? d1*?
+PAUSE 637.0s
+W1 f1*? a1.? b1.? f1.?
+PAUSE 14.4s
+W1 c1*? b1.? a1.?
+CHO 1 g1.?
+PAUSE 19.9s
+W1 a1.?
+CHO 1,2 b1.? a1.?
+CHO 2 a1.=
+CHO 1,2 g1.? g2.?
+CHO 1 g1./
+W2 a1.? a1.=
+
+SEQ 22
+CHO 1 f5.?
+CHO 3 d1.?
+CHO 1,3 f5.\ d1.=
+CHO 1,3 f5.\ d1./
+W1 f3.?
+CHO 1 g3.?
+CHO 2 f3.?
+W1 f3*? f4*?
+CHO 2 f3.=
+CHO 1,2 f5.? f3./
+W1 c3.? b1.?
+CHO 1,2 f4.? f3./
+CHO 1,2 f5.? f3.=
+W1 f5./
+PAUSE 15.5s
+CHO 1,2 f5./ f5*?
+CHO 1,2 e3.? f5.=
+CHO 1,2 f5.? f5.=
+W2 f5.\
+PAUSE 15.3s
+CHO 1,2 f5./ f5.\
+W2 f5.\
+CHO 1,2 f5.\ a3.?
+W1 b1*?
+CHO 2 f5.=
+W1 b3.?
+CHO 1 b1.?
+W2 f5.= f5.=
+CHO 2 f5./
+W1 a3.?
+CHO 1,2 a1*? b1*? e3.?
+W1 a3.? b1.? b1.= b1./ a3.? b1.? b1./ b1./
+
+SEQ 23
+W2 c4.? b1*? c4.? b1.?
+CHO 2 b1./
+W3 k5.?
+CHO 3 b1.?
+W2 c4*? b1.?
+
+SEQ 24
+W2 f5*? d1.? d1*\ b1.? b1./ i2*? f3.? f3.= b1.? b1.\
+
+SEQ 25
+W1 h1.? d1*? o3.? b1.? a1.? b1.? b1./ p3.? n2.? i1.? d1.?
+CHO 1,2 f3*? d1.?
+W1 b2.? b1.? f3.? b2.? b1.?
+CHO 1 b2*?
+W2 d1.\
+CHO 1,2 b1.? a1.? b1.\
+W2 b1.= b1.= a1.? b1.? b1./ b1*/ i1.? i1.= b1.? b1./
+CHO 1,2 b1./ f3.?
+W2 d1.? d1./ d1.= d1.= b1.? b1*/
+CHO 1,3 f3./ g2.?
+CHO 1,2,3 f3.? f3.= g2*\
+CHO 1,2 d1.? f3.=
+CHO 1,2,3,4 f3.? b2.? d1.? b1*? g2.?
+CHO 1,2,3,4 f3.? d1.? f3*? c3.? d1.?
+CHO 1,2,4 d1.= b2*? b1.? e3.? d1.?
+CHO 1,2,3,4 c3.? f3*? e3*? e3.? d1.?
+CHO 1,2,3,4 d4.? f3./ e3*? e3.= b1.?
+CHO 3,4 f4.? c3.? b3.? a1*?
+CHO 3 b1.? f5.?
+W4 c3.? a1*?
+CHO 1 f5.?
+CHO 1,3 f5./ f5.\
+CHO 3,4 f5.? f5./
+W4 f3.?
+CHO 1,4 f5.? f5./
+CHO 1,4 f5.= f5.=
+CHO 6 f5.?
+W7 e3.?
+CHO 7 c1.?
+W1 a3.?
+CHO 1,8 b1.? f5.? b1*/
+CHO 1,8 a3.? f5.=
+W1 b1.? b1./
+CHO 1 b1./
+CHO 9 f5.?
+W1 a3.? b1.? b1./ b1*/
+W10 f5.?
+
+SEQ 26
+W2 g1*? d1.? d1*\
+CHO 2,3 d1.? d1*=
+CHO 2,3 d1.= d1*\
+CHO 2,3 f3*? d1.=
+CHO 3 f3.=
+W2 f3.?
+
+SEQ 27
+W2 f5.? f5.\ f5./
+
+SEQ 28
+W2 g2.?
+CHO 1,2 f3.? f4.?
+CHO 2 f3.\
+W1 f3.?
+CHO 1 f3./
+CHO 2 f3./
+W1 g3.?
+CHO 1,2 b1.? f4.? b1.\
+W1 b2.?
+CHO 1 b1.?
+CHO 2 f4./
+W1 f3.?
+CHO 1 f3.=
+W2 f5.?
+CHO 1,2 f5.= f5.?
+CHO 2 f5.=
+CHO 1 f5./
+CHO 1,2 f5./ f5./
+CHO 2 f5.=
+CHO 1 f5.=
+W2 f5.=
+PAUSE 11.9s
+CHO 1,2 f5./ f5*/
+CHO 1,2 e3.? f5.=
+CHO 1,2 f5.? f5*=
+CHO 2 e3*?
+W1 e3*?
+CHO 2 f5.?
+W1 f5*?
+CHO 2 e3.?
+W1 c4.? d1.?
+CHO 1 b1*?
+W2 e2.?
+CHO 2 d1.?
+W1 f5.?
+
+SEQ 29
+CHO 1,2 f5.? f5.?
+CHO 1,2 f5.= f5.=
+CHO 1 f5.=
+W2 f5.=
+PAUSE 12.0s
+CHO 2 f5./
+W1 f5.\ f5./
+CHO 1 f5.=
+W3 f5.? f5.= f5./ f5./ f5./ f5.=
+CHO 3 f5./
+W1 f5.\ f5./
+CHO 1 f5./
+CHO 1,4 f5.? f5.\
+CHO 1,4 f5.= f5.=
+CHO 4 f5.=
+W1 f5.=
+PAUSE 13.4s
+CHO 1 f5.\
+W4 f5./
+CHO 4 f5.=
+W3 f5./
+CHO 3 f5.=
+W4 f5.= f5.=
+CHO 4 f5.=
+PAUSE 14.6s
+CHO 1 f5./
+PAUSE 11.3s
+W4 f5./
+CHO 1,4 d5.? f5.=
+W4 f5.?
+CHO 4 f5.=
+CHO 1,4 f5.= f5.\
+CHO 1 f5.=
+W4 f5.=
+CHO 1,4 f5.= f5.=
+CHO 1,4 f5.\ f5*=
+CHO 1,4 f5.= f5*\
+W1 f5./
+
+SEQ 30
+W1 i1.? b1.? i1.? b1*? i1.? b1.? p2.?
+
+SEQ 31
+W2 g2.? f5*? d1*? d1.= b1.? b1*/ j2.?
+
+SEQ 32
+W1 g3.? d4.? g5.?
+
+SEQ 33
+W1 n3.? i1.? i1*/
+
+SEQ 34
+W2 g2.? f5.? f4*? d1*? d1.= b1.? b1*/
+CHO 2 j2.?
+W1 f3.? f3.= b1.? b1.\
+
+SEQ 35
+W2 h1.? d1.? b1.?
+
+SEQ 36
+W2 f3.?
+CHO 2,3,4 f3.= f3.? g2*?
+
+SEQ 37
+CHO 2 f3.?
+PAUSE 13.4s
+CHO 2,3 f3.? f3.=
+PAUSE 12.9s
+W2 c3.? a1*?
+
+SEQ 38
+W2 j1.? i1.? d1.? b1.? b1.= b1./
+PAUSE 10.9s
+CHO 2 f5.?
+W3 b1.? b1./ b1./
+
+SEQ 39
+CHO 2 f5.?
+W3 a3.? b1.? b1./ b1*/
+
+SEQ 40
+W2 f4*? f4.\ f3.? f3.\
+
+SEQ 41
+CHO 1,2 b2.? f3.?
+W1 b1.?
+CHO 1 f3.?
+W2 f3./ b1.? a1*? b1.? a1.? b1.?
+CHO 2,3 a1.? f3.?
+W1 b2.? b1.?
+CHO 1 g3.?
+CHO 2 f3.?
+CHO 2,3 f3./ p1*?
+W2 d1.?
+CHO 2 c1.?
+CHO 1 f3.?
+W3 f3.\
+
+SEQ 42
+W1 g1*? d1.? g1.? g1.= g3.? g3*\
+CHO 1 c2.?
+CHO 1,2 g1.? f3.?
+
+SEQ 43
+W1 d1*?
+CHO 1,2 g1.? f1.?
+CHO 1,2 a1.? g1.= b1.?
+W1 g1.?
+
+SEQ 44
+W2 f1.?
+
+SEQ 45
+W1 d1.? b1.? p1.?
+
+SEQ 46
+W2 f5.?
+
+SEQ 47
+W4 f5.? f5.= f5*\ e3.? f5.? f4.?
+CHO 3,4 f3*? e3.?
+W4 f3.\
+CHO 3,4 f3.= f4.?
+W4 f3*\
+CHO 3,4 f3.= f4.\
+CHO 3,4 f3./ f5.?
+W4 f3.=
+CHO 3,4 f3.= f5.\
+CHO 3,4 f5.\ f3./
+CHO 3,4 f5./ f3.\
+CHO 3,4 f5.\ f3./
+CHO 3,4 f5./ f3.\
+CHO 3,4 f3./ f5.=
+CHO 3,4 f5./ f3./
+CHO 3,4 f5.= f3.\
+CHO 3,4 f5./ f3./
+CHO 3,4 f5.= f3./
+CHO 3,4 f5./ f4.?
+CHO 3,4 f5.= f4.=
+CHO 3 f5.\
+W4 f5.?
+CHO 4 f5./
+CHO 3 f5*/
+CHO 3,4 e3.? f5.=
+CHO 3,4 f5*\ c3.?
+CHO 3 f5.\
+W4 c3./
+CHO 4 b1.?
+W3 f5.\
+
+SEQ 48
+W2 f5.?
+CHO 1,2 f5.= f5.?
+W2 f5.=
+CHO 1,2 f5.= f5.\
+CHO 1,2 f5.\ f5.=
+W2 f5./
+CHO 2 f5.\
+W1 f5./
+
+SEQ 49
+W2 e3.? f4.? f4./
+
+SEQ 50
+W1 f5.? f5.=
+
+SEQ 51
+W2 c5.? b1.? c4.? d2.?
+PAUSE 14.7s
+W2 b1.?
+PAUSE 10.1s
+W2 b1*= b1./ b1*\ a1.?
+CHO 2 b1.?
+W1 i2.? b1.? a1.? b1*? b1.= a1.?
+CHO 1,2 b1.? d1.? b1./ d1./
+W2 d1.\ d1.= b1.? b1./
+CHO 2 b1./
+W1 i1.? d1.? i1.? j1*?
+CHO 1,2 f4.? f3.?
+CHO 1,2 f4.= b2.?
+W1 b1*? c2.?
+CHO 1 f3*?
+W2 l1.? i1.? d1.? b1.?
+CHO 2 b1./
+W1 f3*\
+CHO 1,2 b2.? l1.? a1.? i1.?
+W2 d1.? b1.? b1*/
+CHO 1,2 g3.? n1.?
+W2 i1.? d1.? b1.?
+CHO 2 b1./
+W1 b2.? b1.?
+CHO 1,2 a2.? f4.?
+W1 a1.? b2.? a1.?
+CHO 1,2 f3.? f4.=
+CHO 1,2 f4.? f4.\
+W1 f4./
+CHO 1 f4./
+W2 l1.? i1.? d1.? b1.? b1*/
+CHO 1,2 f4.= n1.?
+W2 i1.? d1.? b1.? b1./
+CHO 2 b1./
+W1 f4.=
+CHO 1,2 f4.= n1.?
+W2 g1.? d1.? b1*?
+CHO 2 a1.?
+W1 f4.= f5.? f5.=
+
+SEQ 52
+CHO 2 h3.?
+CHO 1,2 f5.? h3.=
+CHO 1,2 f5./ h3.=
+CHO 1,2 f5*= c3.?
+CHO 1,2 f5*\ e3.?
+CHO 1,2 f5.= f5.?
+CHO 1,2 f5.\ f5.=
+CHO 1 f5*/
+W2 e3.?
+CHO 1,2 f5.? f5.\
+CHO 1,2 f5.= f5.\
+CHO 1,2 f5*= e3.?
+CHO 1,2 f5*\ e3.=
+CHO 1,2 f5*= e3.=
+CHO 1,2 f5.= f5.?
+W1 f5./
+CHO 1,2 f5*/ e3.?
+CHO 1,2 f5*/ e3.\
+W1 f5.\
+CHO 1,2 f5./ f5.?
+CHO 1,2 f5.= f5./
+CHO 1,2 f5*= e3.?
+W1 f5.= f5.= f5.= f5.\ f5.= f5.\ f5./ f5.= f5*= e3.? b1.?
+CHO 1 f5.?
+W2 l1.? i1.? d1.? b1.?
+CHO 1,2 b1./ f5.=
+W2 l1.? i1.? d1.? b1.? b1./
+CHO 1,2 b1./ f5.\
+
+SEQ 53
+W2 g1.? b1.? i1*?
+W1 i1.? d1.? d1.= d1.\ b1.? p1.? g1.? d1*?
+
+SEQ 54
+W1 g2.? g2.= g2.=
+
+SEQ 55
+W1 f5.?
+CHO 1 f5.=
+CHO 2 f5.?
+CHO 1,2 f5.\ f5.\
+CHO 1 f5.=
+CHO 2 f5./
+W1 f5.\
+CHO 1 f5*=
+W2 e3.? f5*?
+CHO 2 e3.?
+W1 f5.=
+
+SEQ 56
+CHO 1,2 f5.? f5.?
+W1 f5.=
+CHO 1,2 f5*= e3.?
+CHO 1 f5*=
+W2 e3.=
+
+SEQ 57
+W1 f5.?
+CHO 1,2 f5*= e3.?
+CHO 1 f5*\
+W2 e3.=
+
+SEQ 58
+W2 f5.? f5.=
+CHO 1,2 f5.= f5.?
+W2 f5.\
+CHO 1,2 f5./ f5.=
+CHO 2 f5.\
+W1 f5.=
+
+SEQ 59
+W2 f5.?
+CHO 1,2 f5.\ f5.?
+CHO 1,2 f5.\ f5.=
+W1 f5./ f5.= f5./ f5./
+
+SEQ 60
+W2 f5.? f5.\ f5.\ f5./
+
+SEQ 61
+CHO 1 f5.?
+CHO 1,2 b3.? f5.\ b1.?
+CHO 1 f5.=
+W2 b3.?
+CHO 2 b1.?
+CHO 1 f5*/
+W2 e3*?
+CHO 2 e3.=
+PAUSE 10.1s
+CHO 1,2 f5*= e3./
+W1 f5./
+CHO 1,2 f5.= h3.?
+W2 h3.=
+CHO 2 h3.=
+W1 f5.\ f5.= f5./ f5.\
+
+SEQ 62
+W2 f5.?
+CHO 1,2 f5.= f5.?
+W2 f5.=
+CHO 2 f5.\
+CHO 1,2 c4.? f5.\
+W1 b1*?
+CHO 1,2 f5.= a3.?
+W1 b1.? b1*/
+CHO 2 f5*=
+W1 e3.?
+CHO 1 b1.?
+W2 f5.=
+
+SEQ 63
+CHO 1,2 d1.? g1*?
+CHO 1 g2.?
+CHO 2 g1*=
+W1 d1.?
+CHO 1,2 g2.? g1.=
+CHO 1,2 g2./ g1.=
+CHO 1,2 g2.= g1.\
+
+SEQ 64
+W1 g2.? g2*= d1.?
+
+SEQ 65
+W1 g2.? g2.=
+
+SEQ 66
+W2 i2.? i1.? i1.= i2*? b1.? d1.?
+CHO 1,2 d1.= g2.?
+CHO 1,2 g2*? d1.?
+CHO 1,2 d1*? d1.=
+W1 d1*= d1*=
+CHO 1 d1./
+CHO 1,2 f3.? f3.?
+CHO 1 f3.\
+CHO 1,2 f3.= b2.?
+W1 b1.? f3.? b2.? b1.? b2.? b1.?
+CHO 1,2 d1.? f3*\
+CHO 1,2 d1./ g2.?
+CHO 1,2 g2.= a1.?
+W1 b1.?
+CHO 1,2 a1.? f3.? b1.?
+W2 b2.? b1.? f5.?
+CHO 1,2 c5.? f5*?
+CHO 1,2 f5.? f5.=
+CHO 2 f5./
+W1 f5*=
+CHO 1 e3*?
+W3 d1*? d1*=
+CHO 3 d1.=
+CHO 1,3 f5*? e3.?
+W2 f5.\
+CHO 2 f5*=
+W3 e3.=
+CHO 3 f4*?
+W2 e3.?
+CHO 2,3 f5.? f4.=
+CHO 1 f5./
+CHO 1,3 f5.? f5.\
+CHO 1,3 f5*/ e3.?
+CHO 1,3 f5*/ e3.=
+CHO 1,3 f5*= e3.=
+CHO 1 f5.=
+W3 f5*? e3*?
+CHO 1,3 f5.= e3*=
+CHO 1,3 c4.? b3.? b1.? b1*?
+W1 e3.? b1.?
+CHO 1,3 c4.? a3.?
+W1 b1*?
+CHO 3 a2.?
+W1 c4.? b1.? b1*/
+CHO 1,3 f5.? f5.?
+CHO 1 f5./
+CHO 1,3 l1.? f4.? i1.?
+W3 d1.? b1.? b1./
+CHO 3 b1.\
+CHO 1 f4.\
+W3 l1.? i1.? d1.?
+CHO 1,3 a1.? f4*/
+W3 b1*?
+CHO 1 f4.=
+CHO 1,3 f5.? f4.=
+CHO 3 f5.\
+W1 f4.=
+
+SEQ 67
+CHO 1 d1*?
+CHO 2 d1.?
+W1 g2.? g2*\
+CHO 2 d1.=
+CHO 1 g2.=
+W2 d1*\
+CHO 1,2 g2*= d1./
+CHO 1,2 g2*= d1.=
+W1 d1*?
+CHO 1,2 d1.= d1.=
+W2 d1*\
+CHO 1,2 f3.? c3*?
+CHO 1,2 f3.= f3.?
+CHO 1,2 b2.? b2.? b1.? b1.?
+CHO 1,2 c3.? f3*?
+
+SEQ 68
+CHO 1 f5.?
+CHO 1,2 f5.? f5.=
+CHO 1,2 f5.= f5.\
+CHO 1,2 f5.= f5.\
+CHO 1,2 f5./ f5.=
+CHO 1 f5.=
+CHO 2 f5./
+W1 f5.=
+CHO 1,2 f5.= b3.? b1.?
+CHO 1,2 f5*= e3.?
+CHO 1 f5.=
+W2 b3.?
+CHO 2 b1.?
+CHO 1,2 f5.\ f5.?
+CHO 1,2 f5*= e3.?
+CHO 1 f5.=
+W3 f5.? e3.? f5.? f5.=
+
+SEQ 69
+CHO 1,2 f5.? f5.?
+CHO 1 f5.\
+W2 b3.?
+CHO 2 b1.?
+CHO 1 f5./
+W2 f5.? f5./
+
+SEQ 70
+CHO 1 f5*?
+CHO 1,2 f5.\ e3.?
+W1 f5.=
+CHO 1,2 f5.\ f5.?
+CHO 1,2 f5.\ f5.=
+CHO 1 f5*/
+W2 e3.? f5.?
+CHO 2 f5.\
+CHO 1 f5.\
+W2 f5.= f5.=
+CHO 1,2 f5.\ f5.=
+CHO 1,2 f5.= f5.=
+W2 f5./ f5./
+
+SEQ 71
+W1 f5.? f5.=
+
+SEQ 72
+W1 i1.? b1.? i1.? b1.? b1.= a1.? b1.? b1./ g1*? b1.?
+
+SEQ 73
+CHO 1,2 f5.? f5.?
+W1 f5.= f5.= f5.= f5.= f5./
+CHO 1,2 f5.= f5.\
+W1 f5./
+
+SEQ 74
+CHO 1,2 f5.? f5.?
+CHO 1,2 f5.= f5.\
+CHO 1,2 f5./ f5.=
+CHO 2 f5.\
+W1 f5./
+CHO 1 f5*/
+W2 e3.?
+CHO 1,2 f5.? f5.\
+W2 f5.= f5./
+CHO 2 f5.=
+W1 f5./ f5.= f5./ f5./ f5.= f5.= f5./ f5.= f5.= f5.= f5.= f5*= d1.? b1.?
+
+SEQ 75
+W1 r3.?
+
+SEQ 76
+CHO 1,2 f5.? f5.?
+CHO 1,2 f5.\ f5./
+CHO 1,2 f5*= e3.?
+CHO 1,2 f5.= f5.?
+CHO 1,2 f5*= e3.?
+CHO 1,2 f5*= e3.=
+CHO 1,2 f5.= f5.?
+CHO 1,2 f5.= f5.=
+CHO 1,2 f5.= f5.=
+W3 f5.? f5./ f5./
+CHO 3,4 f5.\ f5.?
+W3 f5./
+CHO 3,4 f5.\ f5.\
+CHO 3,4 f5.= f5.=
+W4 f5.=
+
+SEQ 77
+CHO 2 f5.?
+W1 f5.?
+CHO 1 f5.=
+W2 f5.\
+CHO 1,2 f5.= f5.=
+CHO 2 f5.\
+W1 f5.\ f5./
+
+SEQ 78
+W1 p1*? l1*? l1.= n1.?
+
+SEQ 79
+CHO 4 g2.?
+CHO 1,2 g1.? g2.?
+CHO 1,2 g1.= g2.=
+CHO 1,2 d1.? g2*=
+CHO 1,2 c1*? d1*?
+CHO 1 c1.=
+W1 g1*? c1.? g1.?
+
+SEQ 80
+W1 i1.? b1.? b1.\ b1.\
+CHO 1 b1.=
+CHO 2 g2.?
+W1 g2*?
+CHO 1,2 d1*? d1.?
+W1 g2.?
+CHO 1 f4.?
+W2 f5.? f5.=
+PAUSE 10.3s
+CHO 1,2 f5./ f5.?
+CHO 2 f5./
+CHO 1,2 f5.= f5.=
+CHO 1,2 f5.= f5.=
+CHO 1,2 f5.= f5.\
+CHO 1,2 f5.= f5.=
+CHO 1 f5./
+W2 f5.=
+CHO 2 f5.\
+W1 f4.? f4./ f5.? f5./ f5./
+CHO 1,2 f5.= f5.=
+CHO 1,2 f5./ f5./
+W1 f5./
+CHO 1,2 f5.= f5.\
+W1 f5.\
+
+SEQ 81
+W4 f5.? f5.=
+CHO 4,5 f5.\ f5.?
+CHO 4 f5./
+CHO 4,5 f5./ f5.\
+W5 f5./
+CHO 4,5 f5./ f5.=
+CHO 3,5 f5.= f5.?
+CHO 3,5 f5.\ f5.=
+CHO 3,5 f5./ f5.=
+CHO 3,5 f5.\ f5.=
+W3 f5./ f5.= f5.\ f5.= f5*\ e3.? f5.? f5./ f5.= f5./ f5.= f5.\ f5.\
+CHO 3 f5.=
+PAUSE 13.0s
+W5 f5*= c4.? b1.?
+
+SEQ 82
+W1 f5.? f5.\ f5.= f5.= f5./ f5.=
+
+SEQ 83
+W2 f5.? f5.=
+CHO 2 f5*/
+W1 e3.? f5.? f5.= f5./ f5./ f5.= f5.= f5.= f5./
+
+SEQ 84
+W2 b3.? b1.?
+CHO 2 b1./
+CHO 1 f5.?
+W2 b3.? b1.?
+CHO 2 b1./
+CHO 1,2 f5.= a3.?
+W2 b1.? b1*/
+W1 f5.=
+
+SEQ 85
+W2 f4.? f5.?
+CHO 2 f5./
+W1 f5.?
+CHO 1 f5*=
+W2 e3.?
+CHO 1,2 b1.? f5.\
+W2 c4*? b1.?
+
+SEQ 86
+W2 p1.? i1.? d1.? p1.? n1.? n1./ i1.? b1.?
+
+SEQ 87
+W2 d1.? g2.? g2.= g2.= g2.= g2.= g2.=
+
+SEQ 88
+W2 m3.? l2.? k3.? i1.? d1*?
+W3 e1*?
+CHO 3 b1.?
+W2 c1.? d1.?
+CHO 2,3 d1*= e1.? d1*= b1.? b1.?
+W2 m3*?
+CHO 2 l2*?
+W3 c1.? d1*?
+W2 q2.?
+CHO 2 b1.?
+CHO 2,3 f4.? i1.?
+W2 i1.= j1.?
+CHO 2 b1.?
+CHO 2,3 f4.\ i1.?
+W2 i1.= d1.? b1.? b1*/
+CHO 2 f4.?
+W1 f4.? f4./
+CHO 1,2 f4.\ g2.?
+CHO 1,2 f3*? d1.?
+CHO 2,3 d1.? g2*?
+CHO 2 g2./
+CHO 1 f5.?
+CHO 1,2 f5.? f5.\
+CHO 1,2 f5.= f5.=
+CHO 1,2 f5./ f5.=
+CHO 2 f5*=
+W1 e3.? c4.?
+CHO 1,2 f5.? f5.=
+CHO 1,2 f5./ f5.=
+CHO 1,2 f5./ f5.=
+CHO 1,2 f5.= f5.=
+CHO 1,2 f5.\ f5.=
+CHO 1 f5./
+W2 f5.= f5.=
+
+SEQ 89
+W3 f5.?
+CHO 3 f5.\
+CHO 4 f5.?
+W3 f5.\
+PAUSE 10.6s
+W3 f5./
+CHO 3 f5.=
+W4 f5.\
+CHO 3,4 f5./ f5.\
+
+SEQ 90
+W2 f5.?
+CHO 2 f5.=
+CHO 1,2 f5.? f5.\
+W1 f5.\ f5./ f5./
+
+SEQ 91
+CHO 2 g2.?
+CHO 1,2 f1.? g2.=
+CHO 1,2 f1.= g2.=
+W1 g1.?
+
+SEQ 92
+W2 g2.?
+CHO 2 g2.=
+W1 d1*? g1.? g1.= g1.= g1.=
+
+SEQ 93
+W2 f5.?
+CHO 2 f5.\
+CHO 1,2 f5.? f5.=
+W1 f5./
+CHO 1 f5./
+W2 f5./
+CHO 2 f5./
+CHO 1,2 f5.\ f5.\
+CHO 2 f5.=
+CHO 1,2 f5.= f5*\
+CHO 1,2 f5.= e3.?
+W2 f5./
+CHO 2 f5.=
+W1 f5.? f5.= f5.=
+CHO 1 f5*=
+PAUSE 15.7s
+W3 e3.? b1.? c4.? d2*?
+
+SEQ 94
+W2 o1.? d1.? d1.\ b1*? g1.? d1.? b1.? g1.? d1*?
+
+SEQ 95
+W2 g2.?
+CHO 2 g2.=
+CHO 1,2 g1.? g2.=
+CHO 1,2 g2./ g1.=
+CHO 1,2 d1.? g2*=
+CHO 1,2 g2.= g1.?
+CHO 1,2 g1.? g1.=
+CHO 1,2 g1.= g2.?
+CHO 1,2 d1.? g2*=
+W2 g2.= g2.= g2.= g2.= g2.= g2.=
+
+SEQ 96
+W2 m3.? n3*? e1.? d1.? d1.= d1.= d1./ b1.?
+CHO 2 b1*/
+W3 e1.? d1.?
+CHO 2,3 d1./ i2.? d1.=
+W3 d1./
+CHO 2,3 d1*/ b1.? b1.?
+CHO 1,2 f5.? f4.?
+CHO 1 f4.\
+CHO 1,2 f5.\ f4.=
+CHO 1,2 f4.\ f4.?
+CHO 1 f4*=
+W2 e1.?
+CHO 1,2 d1.? f4./ d1.=
+W2 d1./ b1.?
+CHO 2 b1./
+W1 f4.\
+CHO 1 f4./
+W2 n1.? i1.? d1.? b1.?
+CHO 1,2 b1./ f4.\
+CHO 1,2 f4./ i1.?
+W2 i1.= j1.? b1.? b1*/
+CHO 2 f4.?
+CHO 1 f5.?
+CHO 2 f4./
+CHO 1,2 f5./ f4.=
+CHO 1 f5./
+W2 f4./ f3.? b1.?
+
+SEQ 97
+CHO 3 f5.?
+W4 f5.?
+CHO 3,4 f5./ f5.\
+W3 f5.\
+CHO 3,4 f5./ f5.\
+CHO 3,4 f5*= e3.?
+CHO 3,4 f5*= e3.=
+CHO 3,4 f5.= f5.?
+CHO 3,4 f5.\ f5.=
+CHO 3,4 f5.= f5.=
+W4 f5./ f5./ f5./
+CHO 3,4 f5.\ f5.=
+W4 f5./
+CHO 3,4 f5.\ f5.\
+CHO 3,4 f5.= f5.=
+W3 f5.=
+
+SEQ 98
+CHO 2 f5.?
+W1 f5.?
+CHO 1 f5.=
+W2 f5.\
+CHO 1,2 f5.= f5.=
+CHO 2 f5.\
+W1 f5.\ f5./
+
+SEQ 99
+W2 p1*? l1*? l1.= n1.?
+
+SEQ 100
+W2 g2.?
+CHO 1,2 d1.? g2*?
+CHO 1,2 d1.= g2*=
+CHO 1,2 c1.? g2*=
+CHO 1,2 c1.= g2*=
+W2 c1.= g1*? c1.? g1.?
+
+SEQ 101
+W2 f5.?
+CHO 2 f5.\
+CHO 3 f5.?
+W4 f5.?
+CHO 3,4 f5.= f5.=
+CHO 4 f5./
+CHO 3,4 f5*/ f5.\
+CHO 3,4 f5.= f5./
+CHO 3,4 f5.\ f5.=
+CHO 3,4 f5./ f5.=
+CHO 3,4 f5.\ f5.=
+W4 f5./ f5.= f5.\ f5.= f5*\ e3.? f5.? f5./
+CHO 4 f5.=
+W3 f5./ f5.= f5.\ f5.\ f5.=
+PAUSE 13.0s
+W3 f5*\ c4.? b1.?
+
+SEQ 102
+W2 f5.? f5.\ f5.= f5.= f5./ f5.=
+
+SEQ 103
+W2 f5.? f5.=
+CHO 2,3 d5*? e3.?
+CHO 2 f5.?
+W3 f5.?
+CHO 3 f5./
+W2 f5./ f5.= f5.= f5.= f5./
+
+SEQ 104
+W2 b3.? b1.?
+CHO 2 b1./
+CHO 3 f5.?
+W2 b3.? b1.?
+CHO 2 b1./
+CHO 2,3 f5.= a3.?
+W2 b1.? b1*/
+W3 f5.=
+
+SEQ 105
+W2 i1.? j1.? d1.? b1.?
+CHO 2,3 b1./ f4.?
+W3 f4.\
+CHO 3 f4./
+W2 f5.?
+CHO 2 f5./
+W3 f5.?
+CHO 3 f5*=
+W2 e3.?
+CHO 2,3 b1.? f5.\
+W2 c4*? b1.?
+
+SEQ 106
+W1 p1.? i1.? d1.? p1.? n1.? n1./ i1.? b1.?
+
+SEQ 107
+W1 d1.? g2.? g2.= g2.= g2.= g2.= g2.=
+
+SEQ 108
+W2 m3.? l2.? c1.? d1.? d1.\ d1./ b1*? e1.? b1*? c1.? d1.?
+CHO 2,3 d1*= e1.? d1*= b1.? b1.?
+W2 m3*?
+CHO 2 l2*?
+W3 c1.? d1*? q2.? b1.?
+CHO 2,3 f4.? n1*?
+W2 n1.=
+CHO 2 b1.?
+CHO 2,3 f4.\ i1.?
+W2 i1*= d1.? b1.?
+CHO 2 b1./
+CHO 3 f4./
+W2 f4.? f4./
+CHO 2,3 f4.\ g2.?
+CHO 2,3 f3*? d1.?
+CHO 2,3 d1.? g2*?
+W2 g2.? f5.?
+CHO 2,3 f5.= f5.?
+CHO 2,3 f5.= f5.=
+CHO 2,3 f5./ f5.=
+CHO 2,3 f5*= e3.?
+CHO 2 f5.=
+CHO 2,3 f5.? f5.\
+CHO 2,3 f5./ f5.=
+CHO 2,3 f5./ f5.=
+CHO 2,3 f5.= f5.=
+CHO 2,3 f5.\ f5.=
+CHO 3 f5./
+W2 f5.= f5.=
+
+SEQ 109
+W2 f5.?
+CHO 2 f5.\
+CHO 3 f5.?
+W2 f5.\
+PAUSE 10.6s
+W2 f5./
+CHO 2 f5.=
+W3 f5.\
+CHO 2,3 f5./ f5.=
+
+SEQ 110
+W2 f5.?
+CHO 2 f5.=
+CHO 2,3 f5.? f5.\
+W3 f5.\ f5./ f5./
+
+SEQ 111
+CHO 2 g2.?
+CHO 1,2 f1.? g2.=
+CHO 1,2 f1.= g2.=
+W1 g1.?
+
+SEQ 112
+W1 g2.?
+CHO 1 g2.=
+W2 d1*? g1.? g1.= g1.= g1.=
+
+SEQ 113
+W2 f5.?
+CHO 2 f5.\
+CHO 2,3 f5.? f5.=
+W3 f5./
+CHO 3 f5./
+W2 f5./
+CHO 2 f5./
+CHO 2,3 f5.\ f5.\
+CHO 2 f5.=
+CHO 2,3 f5.= f5*\
+CHO 2,3 f5.= e3.?
+W2 f5./ f5.= f5.= f5.= f5.= f5.=
+
+SEQ 114
+W2 e3.?
+CHO 2 b1.?
+W2 c4.? d2*?
+PAUSE 10.2s
+W2 c1.? d1.? d1.= d1.=
+CHO 2 b1*?
+CHO 3 f5.?
+W2 f3.? b1*?
+CHO 2,3 f5./ f5.?
+CHO 3 f5.\
+W2 f5*= j4.?
+
+SEQ 115
+W2 o1.? d1.? d1.\ b1*? g1.? d1.? b1.? g1.? d1*?
+
+SEQ 116
+W2 g2*?
+CHO 2 d1.?
+CHO 2,3 g1.? d1.=
+CHO 2,3 g2.? g1.=
+CHO 2,3 d1.? g2*=
+CHO 2,3 g2.= g1.?
+CHO 2,3 g1.? g1.=
+CHO 2,3 g1.= g2.?
+CHO 2,3 d1.? g2*=
+W2 g2.= g2.= g2.= g2.= g2.= g2.=
+
+SEQ 117
+CHO 2 f4*?
+W1 q1.? b1*? q2*?
+CHO 1,2 q1*? q1.? b1.? b1./ d1*?
+CHO 1,2 f4.? g1.?
+W1 g1.\ d1.? b1*?
+CHO 1 f4*?
+W2 c1.? d1.? d1.=
+CHO 2 a1.?
+CHO 1,2 f4.\ f4.?
+CHO 1 f4.=
+W2 i1.? i1.=
+CHO 1,2 j1.? f4.= b1.?
+W2 b1./ i1.? i1.=
+CHO 1,2 d1.? f4.= b1.?
+W2 b1*/
+CHO 1 f4./
+W2 i1.? i1.= j1.? d1.?
+CHO 1,2 b1.? f4*\
+W2 i1.? i1.= j1.? b1.?
+CHO 1,2 b1./ f4.= a1.?
+
+SEQ 118
+W3 f5.?
+CHO 3 f5.\
+CHO 1,2 f5.? f5.?
+CHO 1,2 f5./ f5.=
+CHO 1,2 f5*/ e3.?
+CHO 1,2 f5*= e3.=
+CHO 1,2 f5.\ f5.?
+W2 f5./
+
+SEQ 119
+W2 h3.? h3.\ h3.= h3*= d3.? h3.?
+
+SEQ 120
+W2 h3*?
+PAUSE 10.0s
+W2 b2*?
+
+SEQ 121
+W2 a3.? b1.? b2.?
+
+SEQ 122
+W2 q1*? p1.? b1.? b1./ i1.? i1.= j1.?
+CHO 2 b1.? b1./
+W2 i1.?
+CHO 1,2 i1.= i1.? j1.? i1.\ b1*? d1.?
+W1 i1.? i1.\ d1.? b1.?
+
+SEQ 123
+W1 b1.? a1.? b1.? a1.? a1.\ g1.? a1.?
+CHO 1 a1.\
+W2 g1.?
+CHO 1,2 g1.= a1./
+W1 b1.? a1.?
+CHO 1 b1.?
+CHO 1,2 g1.= b1./ b1.\
+CHO 1,2 g1.= a1.?
+W1 b1.? g1.?
+
+SEQ 124
+W1 g1.? g1.= g1.= g1.= g1.= g1.=
+
+SEQ 125
+W2 g1.? g1.=
+CHO 1,2 g1.= g1.?
+W1 a1.?
+CHO 1 a1.\
+CHO 2 g1.=
+W1 a1./ a1.\ a1./ b1.?
+
+SEQ 126
+W2 g1.? g1.=
+
+SEQ 127
+W2 g1.? b1.? i1*? g1.? g1.= g1.= g1.=
+
+SEQ 128
+CHO 2 g1.?
+W1 g1.?
+CHO 1,2 g1.= g1.\
+CHO 1,2 g1.\ g1*=
+CHO 1,2 d1.? g1.=
+CHO 1,2 g1.? g1.=
+CHO 1,2 g1.\ g1.=
+
+SEQ 129
+CHO 1,2 c1.? a1.?
+CHO 1,2 g1.? g1.?
+CHO 1,2 a1.? g1.= a1.\
+CHO 2 d1.?
+CHO 1,2 g1.? g1.?
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 2 g1.=
+W1 g1.=
+
+SEQ 130
+W2 b1.? a1.? b1.? a1.? a1.\ g1.? a1.?
+CHO 2 a1.\
+W1 g1.?
+CHO 1,2 g1.= a1./
+W2 b1.? a1.?
+CHO 2 b1.?
+W1 b1*?
+CHO 1,2 b1.\ b1./ b1.\
+CHO 1,2 g1.? a1.?
+W2 b1.? g1.?
+
+SEQ 131
+W1 g1.? g1.= g1.= g1.= g1.= g1.=
+
+SEQ 132
+W1 g1.? g1.=
+CHO 1,2 g1.= g1.?
+W2 a1.?
+CHO 2 a1.\
+CHO 1 g1.=
+W2 a1./ a1.\ a1./ b1.?
+
+SEQ 133
+W2 g1.? g1.=
+
+SEQ 134
+W1 g1.? b1.? i1*? g1.? g1.= g1.= g1.=
+
+SEQ 135
+CHO 1 g1.?
+W2 g1.?
+CHO 1,2 g1.= g1.\
+CHO 1,2 g1.\ g1*=
+CHO 1,2 d1.? g1.=
+CHO 1,2 g1.? g1.=
+CHO 1,2 g1.\ g1.=
+
+SEQ 136
+CHO 1,2 d1.? j2*?
+CHO 1,2 g1.? g1.?
+CHO 1,2 g1.= g1.=
+CHO 1 g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1 g1.=
+W2 g1.=
+
+SEQ 137
+CHO 3 f5.?
+CHO 2 f5*?
+W3 e3.?
+CHO 2,3 f4.? f5.\ b1.? g3.?
+CHO 3 b1.\
+CHO 1,2 f3.? a2*? b1.?
+CHO 1 f3.=
+W2 f3*?
+CHO 1 h3.?
+W2 e3.? c4.?
+CHO 2 d2*?
+W1 b1*?
+W2 f5.? a3.? b1.?
+CHO 1,2 b1.\ f5.?
+W2 a3.? b1.? b1./ a3.? b1.? b1*/
+
+SEQ 138
+CHO 2 g1.?
+W1 a1.? b1.?
+CHO 1,2 g1.? g1.=
+W1 g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= b1.?
+W2 a1.?
+CHO 1,2 b1.? g1.= a1.?
+CHO 1,2 g1.= b1.?
+W2 a1.?
+CHO 2 f3.?
+CHO 1,2 g1.= f3.=
+W1 g1.= g1.=
+
+SEQ 139
+W2 g1.? g1.= g1.= g1.= g1.= g1.\ g1.= d1.? b1.? d1.? b1.?
+
+SEQ 140
+W2 d1*? g1.? g1.= g1*= d1*? d1*= d1./ g1.? g1*= d1.? g1.?
+
+SEQ 141
+W1 i1.?
+CHO 1,2 b1.? g1.?
+W1 a1.?
+CHO 1,2 a1.\ g1.=
+CHO 1,2 g1.? g1.=
+W1 a1.?
+CHO 1,2 a1.\ g1.=
+CHO 1,2 g1.? g1.=
+CHO 1,2 g1.\ g1.=
+CHO 1,2 g1.= j1.?
+
+SEQ 142
+CHO 1,2 g1.? g1.?
+CHO 1,2 g1.= g1.\
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1*/ c2.?
+CHO 1,2 g1.= g3.?
+W2 g1.= g1.= g1.= g1.= g1.= g1.= g1.= g1.= g1.= g1.= g1.= g1.= g1.=
+
+SEQ 143
+W1 g1.? g1.= a1.?
+CHO 1 a1.\
+W2 l1*? j1.? l1.? b1.? l1.? b1.?
+
+SEQ 144
+W1 f3.? f3.\ f3.= f3.= f3.=
+
+SEQ 145
+W1 f3.? f3*\ c2.? b1.?
+CHO 1 b1.\
+CHO 1,2 g1.? f3.?
+W2 b1.?
+CHO 1,2 a1.? b1.? a1.?
+CHO 1,2 g1.? b2.? a1.?
+CHO 1,2 g1./ b2.? b1.?
+W2 a1.? b1.? g1.?
+
+SEQ 146
+W2 g1.?
+
+SEQ 147
+CHO 1,2 f5.? f5.?
+W1 f5.=
+CHO 1,2 f5.\ f5.=
+CHO 1,2 f5*/ e3.?
+CHO 1,2 f5*= e3.=
+CHO 1,2 f5.= f5.?
+CHO 1,2 f5.= f5.=
+CHO 1,2 f5*= e3.?
+CHO 1,2 f5.= f5.?
+CHO 1 f5.=
+W2 f5./
+
+SEQ 148
+W2 a3.? b1.?
+CHO 2 b1./
+CHO 2,3 c5.? a3.? d2.? b1.? b1*/
+CHO 2,3 c4.? a3.? d2.? b1.? b1*/
+PAUSE 10.1s
+CHO 1,2 f5.? o3.? b1.?
+W1 f5.=
+
+SEQ 149
+CHO 1,2 g1.? g1.?
+CHO 1 g1.=
+W2 g1.=
+CHO 1,2 g1.= f3.?
+CHO 1,2 d1*? c2.?
+CHO 1,2 g1.? b1.?
+W1 a1.?
+CHO 1,2 b1*? a1.? c2.?
+W1 b2.? a1.? b2.? a1.? b1.?
+CHO 1,2 a1.? g1.?
+CHO 1,2 f3.? g1.=
+CHO 1,2 b1.? g1.= a1.?
+CHO 1,2 b1.? g1.= b1.\
+CHO 1,2 g1.= b1./ a1.?
+CHO 3 g1.?
+CHO 1,2 g1.= g1.?
+CHO 1,2 g1.= g1.=
+CHO 1,2 g1.= g1.=
+W2 g1.= g1.=
+
+SEQ 150
+CHO 1,2 g1.? g1.?
+CHO 1 g1.=
+W2 d1*? g1.? g1.= d1*? g1.?
+
+SEQ 151
+W2 i1.?
+CHO 2,3 b1.? i1.? d1.?
+W2 i1.? d1.? b1.?
+CHO 2 a1*?
+W3 c1*?
+CHO 2,3 g1.? n1*?
+CHO 2,3 c1*? i1*?
+CHO 3 c1*=
+W2 i1.=
+
+SEQ 152
+CHO 3 f5.?
+W2 f5.?
+CHO 2 f4.?
+CHO 1,2,3 b1.? f4.= l1.?
+W1 i1.? d1.? b1*? b1.\ b1./
+CHO 1,2 a1.? f4.\ b1.?
+W1 b1.= b1.= b1.= b1./ b1./
+CHO 1 f3*?
+CHO 1,2 f4.? a2.?
+CHO 1,2 f3.? f4.?
+CHO 2 f3.?
+W1 f3.=
+CHO 1 f3*=
+CHO 1,2 i3.? f3*\
+CHO 1 f3.=
+W2 i3*/
+CHO 2 d2.?
+CHO 1 f3.\
+CHO 1,2 c2.? f3.= d2*?
+CHO 1,2 c2.? c2.?
+W2 d2*?
+CHO 1 f3.?
+CHO 1,2 k5.? f3*\
+W1 f3./
+CHO 1,2 f3.\ m5*?
+W1 b2.? a1.?
+CHO 1 f3*?
+W2 l4.?
+CHO 2 m5.?
+W1 f3.=
+CHO 1 f3./
+CHO 2 m5./
+W1 f3.=
+CHO 1 f3.=
+W2 c3.?
+CHO 2 d2.?
+CHO 1 f3.=
+W2 c3.? d2*?
+CHO 1 f3*/
+W2 i3*?
+CHO 1 f3.=
+CHO 2 m5.?
+W1 i1.? i1.= d1.? d1*/
+
+SEQ 153
+W2 f5.?
+CHO 2 f5.=
+CHO 2,3 f5.? f5.=
+W2 f5.= f5.= f5.\ f5.= f5.= f5.\ f5.= f5.= f5./ f5.=
+CHO 2 f5./
+CHO 3 f5./
+CHO 2,3 f5.\ f5.=
+CHO 2,3 f5.= f5.\
+CHO 2,3 f5.= f5./
+CHO 2,3 f5.= f5.\
+CHO 2 f5./
+W3 f5.=
+CHO 2,3 f5.= f5.\
+CHO 3 f5.=
+CHO 2 f5.=
+CHO 2,3 f5./ f5./
+CHO 2,3 f5.\ f5.\
+CHO 3 f5.\
+W2 f5./ f5./
+CHO 2 f5.=
+CHO 2,3 f5./ f5.\
+CHO 2,3 f5.= f5.\
+CHO 3 f5.\
+CHO 2,3 f5.\ f5.\
+CHO 2,3 f5.= f5./
+CHO 2,3 f5.= f5.=
+CHO 2,3 f5.\ f5.=
+W3 f5.= f5./ f5./
+CHO 3 f5./
+PAUSE 529.5s
+W1 i1.? b1.? g1.? d1.? b1.?
+CHO 1,2 a1.? f3.?
+W1 d1*?
+CHO 2 f3./
+W1 d1.= b1*?
+CHO 1 g1.?
+PAUSE 20.1s
+CHO 1,2 f3.= j1.?
+CHO 1,2 f3.\ f3.?
+CHO 1,2 f3.= f3./
+CHO 2 b2.? b1.?
+W1 b1.?
+CHO 1,2 a1.? f3.?
+
+SEQ 154
+W1 g1.? g1.= g1.= g1.= g1.= g1.= g1.=
+
+SEQ 155
+W1 d5.?
+
+SEQ 156
+W1 n1*? l1*?
+CHO 1,2 p1.? p1.?
+W2 l1*?
+CHO 2 j1.?
+W1 r1.? d1.? c1.?
+CHO 1,2 b1.? g1.?
+W1 i1.?
+CHO 1,2 d1.? g1.\
+W1 p1*?
+CHO 2 d1.?
+CHO 1 l1.?
+W2 i1.? g1.?
+CHO 2 g1.\
+CHO 1,2 d3*? g1.=
+W1 d3.\ d3.\ d3.\
+CHO 1 d3*=
+W2 d1.?
+CHO 1,2 f3.? d3*=
+CHO 1 d3*=
+W2 d2*? g3.? f3.? b2.?
+CHO 2 b1*?
+W3 i1.? g1.?
+CHO 3,4 g1.= i1*? b1.?
+W4 g1.?
+CHO 4 g1*=
+W3 l1.?
+
+SEQ 157
+W1 d5.? d5.\
+
+SEQ 158
+CHO 1 d5.?
+W2 d5.? d5.\
+CHO 2,3 d5.= f5.?
+CHO 2 d5.\
+W3 b3.?
+CHO 3 b1.?
+CHO 2,3 d5*\ e3.?
+CHO 2,3 d5*\ e3.\
+CHO 2,3 d4.? f3.?
+
+SEQ 159
+W2 f5.? f5.\ f5.= f5.\
+
+SEQ 160
+W1 c4.? f5.? f5.= f5.\ f5*\ b1*? c3*?
+PAUSE 10.9s
+W2 c4.? d1.?
+CHO 2 b1.?
+CHO 1,2 d5.? c3.?
+W2 d1.? b1.?
+CHO 1,2 d5.? f5.?
+CHO 1,2 d5.= f5./
+W1 f5./ d5.? f5.?
+CHO 1 d5*?
+W2 i1.? i1.\ i1.= b1.? b1./
+CHO 2 b1./
+CHO 1 d5*=
+W2 i1.? i1.\ j1.? d1.? b1*? i1.? i1.= j1.?
+CHO 1,2 d1.? d5./ b1.? b1./
+CHO 1 d5*=
+W2 i1.? i1.= i1.= b1.? b1./ b1.\ b1.= b1.= b1.= b1.= b1.= b1./ b1*/ i1.? i1.= i1.= b1.? b1./ b1*/ i1.? i1.= i1.= b1.? b1./
+CHO 2 b1./
+W1 f5.?
+
+SEQ 161
+W1 n1.? a1*?
+CHO 1 f1.?
+W2 i1*?
+CHO 3,4 g1.? l1.?
+CHO 1,2 l1.? g1.?
+W2 b1.? b1./
+CHO 2 b1./
+CHO 1 g1./
+W2 l1.?
+CHO 2 b1.?
+W1 d1*?
+CHO 2 l1.?
+W1 g1.?
+
+SEQ 162
+CHO 1,2 g5*? p3.?
+CHO 1 d4*?
+W2 d1*? d1.= d1.= b1.?
+CHO 1,2 j1.? d4.\
+CHO 2 f4.?
+W1 d4.\
+CHO 1,2 d4./ f4.=
+CHO 2 f4./
+CHO 1,2 d4.= i1.?
+W2 i1./ b1.?
+CHO 1,2 o3.? d4*= b1.?
+CHO 1,2 f4.? b3.?
+CHO 1,2 f5.? d5.?
+CHO 1,2 d4.? l2.?
+W2 d1.? i1.? i1./ b1.?
+CHO 1,2 n2.? d4.\
+W2 d1*?
+CHO 1,2 f4.? d4.?
+W1 f4.=
+
+SEQ 163
+CHO 2 d4*?
+W1 i1.? i1./
+CHO 1,2 f3.? d3.?
+CHO 1,2 d3.\ f3.=
+CHO 1,2 f3.\ d3*=
+CHO 2 a2.?
+W1 d3*? a1.?
+CHO 1,2 g3.? d3.?
+CHO 1,2 f3.? d3./
+CHO 1,2 b2.? d3.= b1.?
+W3 d5.? d5.\ f5.? f5.= f5./
+
+SEQ 164
+W1 d5.? d5.= d5.\
+
+SEQ 165
+W1 l1.?
+CHO 1,2 g1.? i1*?
+CHO 1,2 g1.= i1.=
+W2 i1.\
+CHO 1,2 b1.? c1.?
+W1 b1.?
+CHO 1 g1.?
+W3 r1.? n1.?
+
+SEQ 166
+W1 d1*? g1.? g1./ d1*? g1.?
+
+SEQ 167
+W1 b2.?
+
+SEQ 168
+CHO 1,2 f5.? f5.?
+W1 f5.\
+CHO 1 f5./
+CHO 2 f5.\
+CHO 1,2 f5.\ f5.\
+CHO 1,2 f5./ f5.=
+CHO 1,2 f5.= f5.\
+CHO 1,2 f5.\ f5.=
+CHO 1,2 f5*/ e3.?
+CHO 1,2 f5*\ e3.\
+CHO 1,2 f5*\ e3.=
+CHO 1,2 f5.= f5.?
+CHO 1,2 f5./ f5.=
+CHO 1 f5*\
+W2 e3.? f5.? f5./ f5.=
+
+SEQ 169
+CHO 1,2 f5*? e3.?
+CHO 1,2 f5*\ e3.\
+W1 f5.= c5.? b2.? c5*?
+
+SEQ 170
+W2 f4.? f4.\ f4./ f4.= f4.=
+
+SEQ 171
+W1 d1*? f1.? f1.= f1*= c1.? b1.? b1*\ c1.?
+
+SEQ 172
+W1 f5.? f5.\
+
+SEQ 173
+W1 f5.?
+
+SEQ 174
+W2 j1.? a1.? b1.? b1./ b1.\ b1./ b1.\
+CHO 2 g1.?
+CHO 2,3 g1.? g1*=
+CHO 2,3 g1.= a1.?
+CHO 2,3 g1.= g1.?
+CHO 2 g1.=
+CHO 2,3 g1./ g1.=
+CHO 2,3 g1.= g1.=
+W2 g1.= g1.=
+CHO 2 i1.?
+W3 l1*? d1.? a1*? d1.? d1*/ l1.? l1*=
+
+SEQ 175
+W2 i1.? b1.? b1./ b1.\ a1.?
+CHO 2 b1.?
+CHO 1 a1.?
+W2 a1.?
+CHO 1,2 b1.? a1.=
+CHO 2 g1.?
+CHO 1,2 a1.= g1.=
+CHO 1,2 a1.= g1.=
+CHO 1 a1.=
+W3 a1.?
+CHO 3 b1.?
+CHO 1 a1./
+CHO 1,3 f1.? a1.=
+W3 a1.? b1.? a1.? b1.? a1.? b1.? a1.? b1.? g1.?
+
+SEQ 176
+W1 f5.? f5./ f5.= f5.= f5.\ f5.= f5./
+
+SEQ 177
+W1 f5.? f5.\ f5.\ f5./ f5.=
+
+SEQ 178
+CHO 1 b1.?
+W2 f4.?
+CHO 1,2 f4./ b1./
+W2 f4./
+CHO 1,2 f5*? e3.?
+CHO 2 f5*/
+CHO 1,2 f5./ e3.=
+CHO 1,2 f5*= e3.=
+W2 f5./ f5.= f5.= f5.= f5./ f5.= f5.= f5.= f5.\
+
+SEQ 179
+W1 f5.? f5.\ f5.\ f5.= f5.\ f5*\
+
+SEQ 180
+W1 f5.? f5.\
+
+SEQ 181
+CHO 1,2 d1.? f3.?
+W1 d1*=
+CHO 2 f3.\
+CHO 1,2 f3*\ d1./
+CHO 1,2 f3./ g2.?
+CHO 1,2 f3.= d1*?
+W3 f5.? f5./ f5.\ f5.= f5.\ f5.\ f5./
+CHO 3 f5.\
+W4 h3.? h3.\
+PAUSE 15.2s
+W5 h3.?
+CHO 5 h3.=
+W6 f5.? f5./
+
+SEQ 182
+W1 f5.? f5.\ f5.= f5./ f5.\ f5.\ f5.\ f5./ f5./ f5.\ f5./ f5.=
+
+SEQ 183
+W1 i1.? b1.? a1.? a1.\ a1./ b1.? g1.? g1.= g1.= g1.= g1.= g1.= a1.? b1.? g1.? a1.? b1.? b1./ a1.? a1./ b1.? a1.? b1.? g1.? b1.? i1*?
+
+SEQ 184
+CHO 2 b1.?
+W1 f4.?
+CHO 1,2 f4.= b1./
+W1 f4./
+CHO 1 f5*?
+W2 e3*?
+CHO 1 f5*/
+CHO 1,2 f5./ e3.=
+CHO 1,2 f5.= b3.? b1.?
+W1 f5./ f5.= f5.= f5.= f5./ f5.= f5.= f5.= f5.=
+
+SEQ 185
+W1 f5.? f5./ f5.= f5.= f5.\ f5.= f5./
+
+SEQ 186
+W1 f5.? f5.\ f5.\ f5.= f5.\ f5*\
+
+SEQ 187
+W1 f5.? f5.\
+
+SEQ 188
+CHO 1 f3.?
+W10 d1*?
+CHO 11 f3.?
+CHO 10 f3*?
+W11 d1.?
+CHO 11 f3.?
+W10 d1*?
+CHO 10,11 f3.= d1*=
+W3 f5.? f5./ f5.\ f5.= f5.\ f5.\ f5./
+CHO 3 f5.\
+W4 h3.? h3.\
+PAUSE 15.2s
+W5 h3.?
+CHO 5 h3.=
+W6 f5.? f5./
+
+SEQ 189
+W1 f5.? f5.\ f5.\ f5./ f5.=
+
+SEQ 190
+W2 f5.? f5.= f5.= f5.= f5.\ f5.\ f5.\ f5./ f5./ f5.\ f5./ f5.=
+
+SEQ 191
+W1 i1.? b1.? a1.? a1.\ a1./ b1.? g1.? g1.= g1.= g1.= g1.= g1.= a1.? b1.? g1.? a1.? b1.? b1./ a1.? a1./ b1.? a1.? b1.? g1.? b1.? i1*?
+
+SEQ 192
+W1 c1.? f1*? c1.? f1.?
+
+SEQ 193
+W1 f5.? f5./ f5.=
+
+SEQ 194
+W1 f5.? f5.\ f5./ f5.= f5./ f5./ f5.\
+
+SEQ 195
+W1 a3.? b1.? a1.?
+
+SEQ 196
+W2 c3.? d2.?
+
+SEQ 197
+CHO 2 f3.?
+W1 i1.?
+CHO 1,2 g1.? f3*=
+CHO 1,2 d1.? c2*?
+CHO 1 g1*?
+W2 c2.=
+CHO 1,2 b1.? g1.= a1*?
+CHO 1,2 a1.? c2.? a1*\
+CHO 1,2 d1.? b1.? a1.?
+CHO 1,2 g1.? b1.?
+W2 b1.\ b2.? a1*?
+CHO 1,2 c1.? c2.?
+CHO 1,2 g1.? d2*?
+CHO 1,2 b1.? b1.? a1.? b1.\
+W1 f1.?
+
+SEQ 198
+W1 b1.? a1.? b1.?
+CHO 1 a1.?
+W2 f3.?
+PAUSE 10.5s
+W2 f3.= b2.? a1.?
+CHO 2 f3.?
+CHO 1,2 f1.? f3.\
+CHO 1,2 c1.? f3*=
+
+SEQ 199
+W2 g1.? b1.? b1.\
+
+SEQ 200
+W2 f4.? f4./ f4.= f4.= f4./ f4./ f4.= f4./ f4.=
+
+SEQ 201
+CHO 2 f4.?
+W2 f4.= f4.= f4./ f4.=
+
+SEQ 202
+W2 f5.? f5./ f5.=
+
+SEQ 203
+W2 f5.?
+CHO 2 f5*\
+CHO 2,3 e3.? e3*?
+CHO 2,3 e3.\ e3*=
+CHO 2,3 f5.? e3.=
+W2 f5*?
+CHO 2,3 e3.? e3.?
+CHO 2,3 f5*? e3.=
+CHO 2,3 f5.= f5.?
+CHO 2,3 f5./ f5.=
+CHO 2,3 f5.= f5.=
+W2 f5.= f5./
+
+SEQ 204
+W2 f5.? f5.= f5.= f5.=
+
+SEQ 205
+W2 f5.? f5.= f5.=
+CHO 2 f5*\
+W3 e3*?
+CHO 2 f5.\
+W3 e3.=
+CHO 2,3 f5.? f5.=
+CHO 2,3 f5.= f5.=
+
+SEQ 206
+CHO 2,3 b4.? c4.?
+W2 b1.? b1.=
+CHO 2,3 b1.= b1*?
+CHO 2,3 c4.? a3.? b1.? d1.? b1./ d1.= b1*/
+W2 c2.? d1.?
+CHO 2,3 b1.? f5.?
+W2 m5.?
+CHO 2 b1.?
+CHO 3 f5*=
+CHO 2 o5.?
+W3 f5.= f5.\
+
+SEQ 207
+CHO 2,3 i1.? i1.? b1.? b1.?
+CHO 2,3 f3.? n1.?
+CHO 2 f3.\
+W3 b1.?
+CHO 3 b1.\
+CHO 2,3 f3.= g1.?
+W2 d1*? g1.?
+CHO 2,3 g1.= f3.?
+CHO 2,3 g1.= f3.\
+CHO 2,3 b1.? b2.? a1.? a1.?
+W2 f3.?
+CHO 2,3 f3.= g1.?
+CHO 2,3 f3.\ g1.=
+CHO 2,3 f3.= f3.?
+CHO 2,3 f3./ f3.=
+W2 b2.? a1.? f3.?
+
+SEQ 208
+W2 f5.? f5.= f5./ f5.\ f5./ f5.= f5.\ f5.\ f5.= f5.\
+
+SEQ 209
+W2 m5*?
+CHO 2,3 i3.? c3.? d2.? b1.?
+W2 m5.? b1.? h1*?
+CHO 2,3 f5.? f4.?
+CHO 2 f4.?
+W3 i1.? i1.\ j1.? b1.? b1*/
+CHO 2 f4./
+W3 i1.? i1.= j1.? d1.? b1.?
+CHO 3 b1./
+W2 f4.=
+CHO 2 f4.\
+W3 i1.? i1.= j1.? d1.? b1.?
+CHO 3 b1./
+CHO 2,3 f4./ f4.?
+CHO 2,3 f5.? f5.?
+CHO 2,3 f5.= f5./
+CHO 2 f5.\
+CHO 3 f5.=
+W2 m5.?
+
+SEQ 210
+W2 i1.? b1.? i1.? b1.? i1.? b1.? i1.? b1.? a1.? b1.? a1.?
+
+SEQ 211
+CHO 2,3 d1*? c2*?
+CHO 2,3 f3.? g1*?
+CHO 2,3 c2.? g1*=
+CHO 2,3 c2.= g1.=
+CHO 2,3 b2.? b1.? b1.\ a1*?
+CHO 2,3 c2.? g1.?
+W3 b1.? a1.? d2*?
+CHO 2 g1.=
+CHO 3 f3.?
+W2 g1*= g1.= g1.=
+
+SEQ 212
+W2 l1.?
+
+SEQ 213
+W2 f5.? f5*\ e4.? f5.? f5./ f5./ f5.\
+
+SEQ 214
+W1 m5.? m5.\
+CHO 1,2 b1.? f5.?
+CHO 2 f4*?
+W1 i3.? b1.?
+CHO 1 f3.?
+CHO 1,2 f4.= f3.=
+CHO 1,2 c3.? f3.=
+CHO 2 f3.?
+W1 f3.\
+CHO 1 f3.=
+W2 d1*? d1.= d1.= d1.=
+CHO 1,2 d1.= f3./ b1.?
+W2 b1*/
+CHO 1 f3*/
+W2 i1.? i1.\ j1.? b1.? b1./
+
+SEQ 215
+W1 f3.?
+CHO 1 f3.=
+W2 i1.?
+CHO 1,2 b1.? f3.=
+CHO 2 n1.?
+W1 b1.? a1.?
+CHO 1,2 f3.? i1.? b1.?
+CHO 1,2 b1.? n1.? b1*\
+CHO 1,2 b2*? j1.? a1.?
+W2 g1.? g1.= g1.=
+
+SEQ 216
+W2 g1.?
+
+SEQ 217
+CHO 2,3 f3.? g1.?
+W2 b2.?
+CHO 2,3 a1.? g1.=
+CHO 2 f3.?
+W3 g1.=
+
+SEQ 218
+W2 c1.? d1*? b1.? b1.\
+

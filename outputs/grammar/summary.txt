@@ -1,0 +1,110 @@
+=== Compression (bits/token; lower = more structure) ===
+  Token           V= 207  N= 4802  H0=5.966  H1=3.027  H2=3.077  H3=3.163  H1_shuffled=3.218  gain_vs_shuffle=0.191
+  Rhythm          V=  18  N= 4802  H0=2.756  H1=1.531  H2=1.418  H3=1.428  H1_shuffled=1.727  gain_vs_shuffle=0.196
+  Tempo           V=   5  N= 4802  H0=2.022  H1=1.076  H2=0.966  H3=0.918  H1_shuffled=1.270  gain_vs_shuffle=0.194
+  Ornamentation   V=   2  N= 4802  H0=0.567  H1=0.511  H2=0.498  H3=0.488  H1_shuffled=0.513  gain_vs_shuffle=0.003
+  Rubato          V=   4  N= 4802  H0=1.716  H1=1.384  H2=1.230  H3=1.110  H1_shuffled=1.405  gain_vs_shuffle=0.021
+
+=== Mutual information at lag k (bits) ===
+  Rhythm          k=1:0.536  k=2:0.498  k=3:0.417  k=4:0.352  k=5:0.328  k=6:0.307  k=7:0.279  k=8:0.291  k=9:0.255  k=10:0.229  shuffled_lag1=0.258
+  Tempo           k=1:0.531  k=2:0.523  k=3:0.429  k=4:0.396  k=5:0.340  k=6:0.318  k=7:0.286  k=8:0.285  k=9:0.237  k=10:0.237  shuffled_lag1=0.221
+  Ornamentation   k=1:0.000  k=2:0.005  k=3:0.001  k=4:0.002  k=5:0.002  k=6:0.001  k=7:0.000  k=8:0.002  k=9:0.001  k=10:0.001  shuffled_lag1=0.000
+  Rubato          k=1:0.054  k=2:0.045  k=3:0.034  k=4:0.023  k=5:0.019  k=6:0.017  k=7:0.019  k=8:0.017  k=9:0.017  k=10:0.016  shuffled_lag1=0.011
+
+=== Turn-taking (responder predictability) ===
+  n_pairs = 2192
+  rhythm    H(resp)=2.516  H(resp|init)=2.251  shuffled=2.461
+  tempo     H(resp)=2.151  H(resp|init)=1.840  shuffled=2.146
+  token     H(resp)=5.898  H(resp|init)=3.553  shuffled=4.242
+
+=== Top n-grams by log-likelihood-ratio over independence ===
+  -- 2-grams --
+    5.4 5.4                         count= 824  expected=291.38  ratio=  2.83  llr= 1713.2
+    6.0 6.0                         count= 214  expected= 35.34  ratio=  6.06  llr=  770.8
+    5.2 5.2                         count= 134  expected= 33.48  ratio=  4.00  llr=  371.7
+    1.0 1.0                         count= 215  expected= 91.24  ratio=  2.36  llr=  368.6
+    5.3 5.3                         count=  83  expected= 16.91  ratio=  4.91  llr=  264.1
+    8.0 8.0                         count=  61  expected=  7.05  ratio=  8.65  llr=  263.3
+    3.0 3.0                         count=  85  expected= 20.27  ratio=  4.19  llr=  243.7
+    6.1 6.1                         count=  38  expected=  2.30  ratio= 16.55  llr=  213.3
+    5.4 4.2                         count= 105  expected= 41.13  ratio=  2.55  llr=  196.8
+    3.0 1.0                         count=  95  expected= 43.00  ratio=  2.21  llr=  150.6
+    3.4 3.4                         count=  24  expected=  1.20  ratio= 19.96  llr=  143.7
+    4.2 5.4                         count=  85  expected= 41.13  ratio=  2.07  llr=  123.4
+    0.0 1.0                         count=  66  expected= 27.43  ratio=  2.41  llr=  115.9
+    8.0 3.0                         count=  43  expected= 11.95  ratio=  3.60  llr=  110.1
+    1.0 0.0                         count=  64  expected= 27.43  ratio=  2.33  llr=  108.5
+  -- 3-grams --
+    5.4 5.4 5.4                     count= 661  expected= 71.77  ratio=  9.21  llr= 2935.3
+    6.0 6.0 6.0                     count= 151  expected=  3.03  ratio= 49.81  llr= 1180.3
+    5.3 5.3 5.3                     count=  42  expected=  1.00  ratio= 41.85  llr=  313.7
+    5.2 5.2 5.2                     count=  52  expected=  2.80  ratio= 18.60  llr=  304.0
+    5.4 4.2 5.4                     count=  74  expected= 10.13  ratio=  7.30  llr=  294.3
+    3.0 3.0 3.0                     count=  42  expected=  1.32  ratio= 31.90  llr=  290.9
+    3.0 1.0 1.0                     count=  52  expected=  5.93  ratio=  8.77  llr=  225.9
+    6.1 6.1 6.1                     count=  19  expected=  0.05  ratio=378.63  llr=  225.6
+    1.0 1.0 1.0                     count=  67  expected= 12.58  ratio=  5.33  llr=  224.2
+    4.2 5.4 4.2                     count=  30  expected=  1.43  ratio= 20.98  llr=  182.6
+    5.4 5.4 4.2                     count=  54  expected= 10.13  ratio=  5.33  llr=  180.7
+    8.0 3.0 1.0                     count=  30  expected=  1.65  ratio= 18.21  llr=  174.1
+    8.0 8.0 9.0                     count=  15  expected=  0.05  ratio=319.40  llr=  173.0
+    3.3 5.3 3.3                     count=  15  expected=  0.08  ratio=194.54  llr=  158.1
+    0.0 1.0 0.0                     count=  24  expected=  1.14  ratio= 21.12  llr=  146.4
+  -- 4-grams --
+    5.4 5.4 5.4 5.4                 count= 548  expected= 17.68  ratio= 31.00  llr= 3763.7
+    6.0 6.0 6.0 6.0                 count= 112  expected=  0.26  ratio=430.69  llr= 1358.6
+    5.3 5.3 5.3 5.3                 count=  28  expected=  0.06  ratio=470.24  llr=  344.6
+    5.2 5.2 5.2 5.2                 count=  29  expected=  0.23  ratio=124.27  llr=  279.7
+    6.1 6.1 6.1 6.1                 count=  14  expected=  0.00  ratio=12761.71  llr=  264.7
+    8.0 3.0 1.0 1.0                 count=  27  expected=  0.23  ratio=118.91  llr=  258.0
+    3.0 3.0 3.0 3.0                 count=  21  expected=  0.09  ratio=245.55  llr=  231.1
+    5.4 5.4 5.4 4.2                 count=  41  expected=  2.50  ratio= 16.43  llr=  229.5
+    5.4 4.2 5.4 4.2                 count=  26  expected=  0.35  ratio= 73.81  llr=  223.7
+    5.4 4.2 5.4 5.4                 count=  39  expected=  2.50  ratio= 15.63  llr=  214.4
+    5.4 5.4 4.2 5.4                 count=  39  expected=  2.50  ratio= 15.63  llr=  214.4
+    4.2 5.4 4.2 5.4                 count=  24  expected=  0.35  ratio= 68.13  llr=  202.6
+    8.0 8.0 3.0 1.0                 count=  15  expected=  0.06  ratio=237.67  llr=  164.1
+    4.2 5.4 5.4 5.4                 count=  31  expected=  2.50  ratio= 12.42  llr=  156.2
+    1.0 1.0 1.0 1.0                 count=  28  expected=  1.73  ratio= 16.15  llr=  155.8
+
+=== Tokens over-represented at run START (over middle) ===
+  1.2       n_start= 15  p_start/p_mid=20.03
+  5.0       n_start=  5  p_start/p_mid=6.68
+  0.2       n_start= 20  p_start/p_mid=6.68
+  3.2       n_start= 15  p_start/p_mid=6.68
+  4.2       n_start= 36  p_start/p_mid=6.01
+  3.3       n_start= 11  p_start/p_mid=3.67
+  2.0       n_start= 11  p_start/p_mid=3.67
+  2.3       n_start= 16  p_start/p_mid=3.56
+  4.0       n_start=  5  p_start/p_mid=3.34
+  2.2       n_start= 15  p_start/p_mid=3.34
+  3.4       n_start= 13  p_start/p_mid=2.89
+  5.2       n_start= 56  p_start/p_mid=2.49
+  4.1       n_start=  5  p_start/p_mid=2.23
+  13.0      n_start= 10  p_start/p_mid=2.23
+  11.0      n_start= 12  p_start/p_mid=2.00
+
+=== Tokens over-represented at run END (over middle) ===
+  3.1       n_end= 12  p_end/p_mid=inf
+  5.0       n_end=  7  p_end/p_mid=9.35
+  3.2       n_end= 13  p_end/p_mid=5.79
+  3.3       n_end= 11  p_end/p_mid=3.67
+  5.2       n_end= 72  p_end/p_mid=3.20
+  3.4       n_end= 14  p_end/p_mid=3.12
+  5.3       n_end= 44  p_end/p_mid=1.73
+  2.0       n_end=  5  p_end/p_mid=1.67
+  5.4       n_end=179  p_end/p_mid=1.40
+  4.2       n_end=  8  p_end/p_mid=1.34
+  6.2       n_end=  6  p_end/p_mid=1.14
+  6.0       n_end= 58  p_end/p_mid=1.02
+  1.0       n_end=220  p_end/p_mid=0.94
+  6.1       n_end= 14  p_end/p_mid=0.93
+  0.0       n_end= 46  p_end/p_mid=0.81
+
+=== Cross-whale rubato coupling ===
+  n_pairs=696  H(resp)=1.429  MI=0.0021  MI_shuffled=0.0041 +/- 0.0030
+  contingency (rows = initiator rubato, cols = responder):
+                =     /     \
+      =      203    83    80
+      /       95    40    37
+      \       92    28    38
